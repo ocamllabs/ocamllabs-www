@@ -25,8 +25,14 @@ github_username:  ocamllabs
 # Build settings
 markdown: kramdown
 theme: minima
-collections:
-  - Publications
 exclude:
   - Gemfile
   - Gemfile.lock
+collections:
+  - Publications
+  defaults:
+  - scope:
+      path: ""
+      type: Publications
+    values:
+      layout: page
