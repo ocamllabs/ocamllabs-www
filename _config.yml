@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gemma Gordon
+title: OCaml Labs
 email: gg417@cl.cam.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   OCaml Labs is an initiative within the Cambridge Computer Laboratory started by Anil Madhavapeddy in 2011 to promote research, growth and collaboration within the wider OCaml community. We contribute to management of the day-to-day OCaml maintenance load, and align research agendas with real-world projects to help progress the language and make it available and applicable to a larger audience. Building on 40 years of language development, together with INRIA our goal is to freely release and integrate all work upstream, allowing all prospective users access to the efficient, expressive language of OCaml.
