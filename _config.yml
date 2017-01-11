@@ -21,13 +21,6 @@ baseurl: ""
 url: "https://ocamllabs.github.io/"
 twitter_username: ocamllabs
 github_username:  ocamllabs
-
-# Build settings
-markdown: kramdown
-theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
 collections:
   - Publications
   defaults:
@@ -36,3 +29,10 @@ collections:
       type: Publications
     values:
       layout: page
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
