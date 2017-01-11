@@ -16,7 +16,7 @@
 title: OCaml Labs
 email: gg417@cl.cam.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  OCaml Labs is an initiative within the Cambridge Computer Laboratory started by Anil Madhavapeddy in 2011 to promote research, growth and collaboration within the wider OCaml community. 
+  OCaml Labs is an initiative within the Cambridge Computer Laboratory started by Anil Madhavapeddy in 2011 to promote research, growth and collaboration within the wider OCaml community.
 baseurl: ""
 url: "https://ocamllabs.github.io/"
 twitter_username: ocamllabs
@@ -25,6 +25,8 @@ github_username:  ocamllabs
 # Build settings
 markdown: kramdown
 theme: minima
+collections:
+  - Publications
 exclude:
   - Gemfile
   - Gemfile.lock
