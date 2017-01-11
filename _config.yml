@@ -21,14 +21,6 @@ baseurl: ""
 url: "https://ocamllabs.github.io/"
 twitter_username: ocamllabs
 github_username:  ocamllabs
-collections:
-  - Publications
-  defaults:
-  - scope:
-      path: ""
-      type: Publications
-    values:
-      layout: page
 
 # Build settings
 markdown: kramdown
