@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Events
-permalink: /events/
+title: Community
+permalink: /community/
 ---
 
 ## Cambridge, UK
