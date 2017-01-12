@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OCaml Labs
-email: gg417@cl.cam.ac.uk | sk826@cl.cam.ac.uk
+email: gg417@cl.cam.ac.uk  sk826@cl.cam.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   OCaml Labs is an initiative within the Cambridge Computer Laboratory started by Anil Madhavapeddy in 2011 to promote research, growth and collaboration within the wider OCaml community.
 baseurl: ""
