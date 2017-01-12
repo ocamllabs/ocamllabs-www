@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Upcoming
-permalink: /upcoming/
+title: Events
+permalink: /events/
 ---
 
 ## Cambridge, UK
