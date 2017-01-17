@@ -1,6 +1,7 @@
 ---
 layout: post
 title: POPL 2017 Liveblog
+categories: [News, Community]
 ---
 
 Building on the success of our [ICFP liveblog](http://canopy.mirage.io/Liveblog), Frédéric Bour, Stephen Dolan and Jeremy Yallop are [liveblogging](http://popl2017.ocaml.io/) their attendance at the 44th ACM SIGPLAN Symposium on Principles of Programming Languages [(POPL)](http://conf.researchr.org/home/POPL-2017) in Paris this year. All attendees are encouraged to contribute, and all notes added will be archived for future reading after the event.
