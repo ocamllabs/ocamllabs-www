@@ -33,14 +33,14 @@ title: Home
         {% endif %}
 
         {% for category in post.categories %}
-        <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
+        <a href="{{"/categories/" | prepend: site.baseurl }}">
           <data data-icon="ei-archive"></data>
           {{category}}</a>
         {% endfor %}
 
         {% if post.author %}
         <span class="author_meta">
-          <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
+          <img src="{{site.baseurl}}/assets/img/{{post.author}}.png"></img>
           <span>{{post.author}}</span>
         </span>
         {% endif %}

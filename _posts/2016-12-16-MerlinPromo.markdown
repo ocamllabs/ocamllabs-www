@@ -2,6 +2,7 @@
 layout: post
 title: Merlin promoted to headline OCaml project
 categories: [News, Project, Platform]
+author: gemmag
 ---
 
 We have been [refreshing](http://lists.ocaml.org/pipermail/infrastructure/2016-December/000624.html) the [OCaml GitHub organisation](https://github.com/ocaml) in an effort to better manage the growing number of projects integral to the core OCaml distribution. We are happy to announce that in recognition of its importance to the OCaml language and ecosystem as a whole, [Merlin](https://github.com/ocaml/merlin) has been promoted as a headline project of OCaml.
