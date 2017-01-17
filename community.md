@@ -4,9 +4,10 @@ title: Community
 permalink: /community/
 ---
 
-We regularly host community events based around functional programming and OCaml including [Compiler Hacking]((https://github.com/ocamllabs/compiler-hacking)) events, MirageOS Hackathons in the [UK](https://mirage.io/blog/2016-summer-hackathon-roundup) and [Marrakech](https://mirage.io/blog/2016-summer-hackathon), Summer Schools and OSS Summits.
+We regularly host community events based around functional programming and OCaml including [Compiler Hacking]((
+  https://github.com/ocamllabs/compiler-hacking)) events, MirageOS Hackathons in the [UK](https://mirage.io/blog/2016-summer-hackathon-roundup) and [Marrakech](https://mirage.io/blog/2016-summer-hackathon), Summer Schools and OSS Summits.
 
-Together with academic appearances, members of the OCaml Labs team present their work to the wider community including programming groups, students, financial groups and other development teams, such as [Facebook]((https://github.com/facebook/reason) and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
+Together with academic appearances, members of the OCaml Labs team present their work to the wider community including programming groups, students, financial groups and other development teams, such as [Facebook](https://github.com/facebook/reason) and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
 The [Real World OCaml](https://realworldocaml.org/) book was released in 2013, and still serves as a popular and useful teaching text for new and seasoned OCaml users alike.
 
