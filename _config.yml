@@ -19,12 +19,15 @@ description: > # this means to ignore newlines until "baseurl:"
   OCaml Labs is an initiative within the Cambridge Computer Laboratory started by Anil Madhavapeddy in 2011 to promote research, growth and collaboration within the wider OCaml community.
 baseurl: ""
 url: "https://ocamllabs.github.io/"
-twitter_username: ocamllabs
-github_username:  ocamllabs
 
 # Build settings
-markdown: kramdown
-theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# used this for post_excerpt at index_page
+excerpt_separator: <!--description-->
