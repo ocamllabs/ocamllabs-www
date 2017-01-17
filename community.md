@@ -27,5 +27,8 @@ We are always keen on collaboration and if you'd like to work together on a proj
 
 ## Events
 
+* **2nd-9th March 2017: MirageOS Hack Retreat: Marrakech, Morocco**  
+The third MirageOS hack retreat returns to [Rihad Priscilla](http://queenofthemedina.com/en/index.html) in Morocco for a week this spring. We will be working on MirageOS projects during that week in Cambridge, and will share progress via Canopy as in 2016.
+
 * **7th February 2017: Compiler Hacking: Cambridge, UK**  
 Our first [Compiler Hacking](https://github.com/ocamllabs/compiler-hacking) event of 2017 will be held at Pembroke College on 7th February!
