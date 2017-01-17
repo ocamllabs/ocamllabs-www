@@ -1,0 +1,24 @@
+---
+layout: page
+permalink: /people/
+title: People
+---
+
+{% for role in site.roles %}
+<div class="role-group">
+  <div class="role-header">{{role.name}}</div>
+  <p>{{role.descr}}</p>
+{% assign a = site.authors | where:"role",role.uid %}
+{% for author in a %}
+<section class="author">
+  <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/{{author.uid}}.png)"></div>
+  <div class="authorinfo box">
+    <p><a href="{{author.homepage}}">{{author.fullname}}</a></p>
+    <p class="bio">{{author.bio}}</p>
+    <p><small><a href="{{author.homepage}}">{{author.homepage}}</a></small></p>
+  </div>
+</section>
+</div>
+
+{% endfor %}
+{% endfor %}
