@@ -3,7 +3,7 @@ title: "Representation without Taxation: A Uniform, Low-Overhead and High-Level 
 authors: ["KC Sivaramakrishnan", "Gowtham Kaki", "Suresh Jagannathan"]
 date: 20/01/2016
 venue:
-  name: "in the IEEE Data Engineering Bulletin 39(1)"
+  name: "the IEEE Data Engineering Bulletin 39(1)"
   short-name: "IEEE"
   url: "http://sites.computer.org/debull/A16mar/issue1.htm"
   location:
