@@ -1,5 +1,5 @@
 ---
-uid: "OCL.jpg"
+uid: "OCL"
 fullname: "Stephen Dolan"
 bio: "Stephen loves to Jam"
 homepage: "http://mu.netsoc.ie"
