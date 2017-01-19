@@ -5,35 +5,17 @@ author: kc
 categories: [News]
 ---
 
-[I've](/wiki/User%3AKayceesrk "wikilink") been enjoying working with
-[Reason](/wiki/Reason "wikilink"), and looking at ways to combine ARM, Reason
-and Docker. Check out this
-[tutorial](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/)
-on how to build Reason apps for an ARM target using the [Docker for Mac
-beta
-program](https://ocaml.io/w/Blog:News/Docker_for_Mac_and_Windows_Beta).
-Reason is packaged as a Docker image, so local installation is
-unnecessary, and Docker's multiarch support means no need for
-cross-compilation - what a breeze!
+I've been enjoying working with [Reason](http://facebook.github.io/reason/), and looking at ways to combine ARM, Reason
+and Docker. Check out this [tutorial](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/)
+on how to build Reason apps for an ARM target using the Docker for Mac
+beta program. Reason is packaged as a Docker image, so local installation is unnecessary, and Docker's multiarch support means no need for cross-compilation - what a breeze!
 
---more--
-
-<img src="Cubietruck.jpg" title="fig:Cubieboard Cubietruck" alt="Cubieboard Cubietruck" width="275" />
-I am using [Docker for
-Mac](https://blog.docker.com/2016/03/docker-for-mac-windows-beta/),
-which is still under beta program. Using Docker for development has two
-important advantages over traditional cross-compilation. First, the
-Reason toolchain comes packaged as a Docker image and hence no local
-installation is necessary. Secondly, cross-compiler are often tricky to
-get right. Docker for Mac comes with multiarch support and hence removes
-the need for traditional cross-compilation.
+I am using [Docker for Mac](https://blog.docker.com/2016/03/docker-for-mac-windows-beta/), which is still under beta program. Using Docker for development has two important advantages over traditional cross-compilation. First, the Reason toolchain comes packaged as a Docker image and hence no local installation is necessary. Secondly, cross-compiler are often tricky to get right. Docker for Mac comes with multiarch support and hence removes the need for traditional cross-compilation.
 
 ### Setup
 
-I will be testing using a
-[Cubietruck](https://en.wikipedia.org/wiki/Cubieboard) running Linaro
-Desktop. But these instructions should also work for
-[Raspbian](https://www.raspbian.org/), a Debian optimized for the
+I will be testing using a [Cubietruck](https://en.wikipedia.org/wiki/Cubieboard) running Linaro
+Desktop. But these instructions should also work for [Raspbian](https://www.raspbian.org/), a Debian optimized for the
 Raspberry pi hardware.
 
 ### Build
