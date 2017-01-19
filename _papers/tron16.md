@@ -1,9 +1,9 @@
 ---
 title: "Not-quite-so-broken TLS 1.3 mechanised conformance checking"
-authors: ["David Kaloper Meršinjak, Hannes Mehnert]
+authors: ["David Kaloper Meršinjak, Hannes Mehnert"]
 date: 21/02/2016
-venue: Catamaran Resort Hotel & Spa
-  location: San Diego, California, USA
+venue: "Catamaran Resort Hotel & Spa"
+  location: "San Diego, California, USA"
   name: "TLS 1.3 Ready or Not Workshop Programme"
   short-name: "TRON16"
   url: "http://www.internetsociety.org/events/ndss-symposium-2016/tls-13-ready-or-not-tron-workshop-programme"

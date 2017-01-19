@@ -2,8 +2,8 @@
 title: "Staging Generic Programming"
 authors: ["Jeremy Yallop"]
 date: 20/01/2016
-venue: Hilton St. Petersburg Bayfront
-  location: Florida, USA
+venue: "Hilton St. Petersburg Bayfront"
+  location: "Florida, USA"
   name: "the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages"
   short-name: "PEPM16"
   url: "http://conf.researchr.org/track/POPL-2016/pepm-2016-main"
