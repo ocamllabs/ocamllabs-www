@@ -1,6 +1,6 @@
 ---
 title: "Not-quite-so-broken TLS 1.3 mechanised conformance checking"
-authors: ["David Kaloper Meršinjak" and "Hannes Mehnert"]
+authors: ["David Kaloper Meršinjak", "Hannes Mehnert"]
 date: 21/02/2016
 venue:
   location: "Catamaran Resort Hotel & Spa, San Diego, California, USA"
