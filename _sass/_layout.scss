@@ -334,6 +334,10 @@ body.custom-background {
   background-attachment: scroll; }
 
 /* Publications */
+.paper {
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
 .paper_title {
   font-weight: bold;
 }
@@ -342,6 +346,12 @@ body.custom-background {
   font-style: italic;
 }
 
+.paper_year {
+  font-weight: bold;
+  font-size: 120%;
+  border-bottom: 1px dashed #ccccee;
+  margin-bottom: 10px;
+}
 
 /* Archive page */
 
