@@ -43,13 +43,13 @@ Olivier deep in the compiler with his macros.
 -   Working with email, specifically multipart and metadata, to ensure
     any implementation is compliant with old and new standards, proves
     to be a long and complicated process, and
-    [Romain] has been working hard battling RFCs and bugs. He now has a prototype to test the implementation of
+    Romain has been working hard battling RFCs and bugs. He now has a prototype to test the implementation of
     [Mr Mime](https://github.com/oklm-wsh/MrMime) and "real world
     email", and is working on pretty-printing.
 
 <!-- -->
 
--   [Olivier] is developing the [modular
+-   Olivier is developing the [modular
     macros](https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf)
     work initiated by Jeremy Yallop and Leo White. Macros retain the
     benefits of abstraction, eliminate interpretive overhead, and are
@@ -61,7 +61,7 @@ Olivier deep in the compiler with his macros.
 
 <!-- -->
 
--   [Philip Dexter] from Binghamton University joins our growing group of interns for 3 months, to work on a
+-   Philip Dexter from Binghamton University joins our growing group of interns for 3 months, to work on a
     reasoning system for approximate computations in OCaml. The system
     builds on the theory work at Binghampton, and will offer static
     error bounds and confidence intervals for computations for which a
