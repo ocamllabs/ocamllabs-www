@@ -1,6 +1,6 @@
 ---
 title: "Migrating MultiMLton to the Cloud"
-authors: [KC Sivaramakrishnan", "Lukasz Ziarek", "Suresh Jagannathan"]
+authors: ["KC Sivaramakrishnan", "Lukasz Ziarek", "Suresh Jagannathan"]
 date: 22/09/2016
 venue:
   name: "the ACM SIGPLAN Workshop on ML"
