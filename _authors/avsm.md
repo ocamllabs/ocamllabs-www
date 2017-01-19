@@ -1,9 +1,10 @@
 ---
 uid: "avsm"
 fullname: "Anil Madhavapeddy"
-bio: "Anil also loves to Jam"
+bio: "Anil is an engineer at [Docker](http://docker.com), and a University Lecturer at the University of Cambridge (currently on leave), and also a [Fellow of Pembroke College](http://www.pem.cam.ac.uk/fellows-staff/fellows-2/dr-anil-madhavapeddy/) where is he Director of Studies of Computer Science."
 homepage: "http://anil.recoil.org"
-github: "https://github.com/avsm/"
-twitter: "https://twitter.com/avsm"
+github: "avsm"
+twitter: "avsm"
 role: "faculty"
+photo: "avsm"
 ---
