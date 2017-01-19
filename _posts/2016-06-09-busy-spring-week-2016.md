@@ -20,10 +20,6 @@ event](http://ocamllabs.github.io/compiler-hacking/2016/05/20/spring-compiler-ha
 at the Old Library in Pembroke College provided the perfect venue and
 opportunity to discuss these ideas.
 
---more--
-
-<img src="Lab_summer.jpg" title="Lab_summer.jpg" alt="Lab_summer.jpg" width="200" />
-
 Internships
 -----------
 
@@ -36,8 +32,7 @@ Olivier deep in the compiler with his macros.
     [interface](https://github.com/Engil/ocaml-ctypes-inverted-stubs-tls-prototype)
     for ocaml-tls is now almost complete, the final steps being testing
     the binding against various software from the OpenBSD project.
-    Building on the Ctypes project,
-    [Enguerrand](/wiki/User%3AEngil "wikilink") is planning to further improve
+    Building on the Ctypes project, [Enguerrand] is planning to further improve
     the Reason developer experience by focussing on its interoperability
     with C. Exploiting the pre-existing support within OCaml via Ctypes,
     he hopes to extend Reason by generating OCaml bindings which will be
@@ -48,15 +43,13 @@ Olivier deep in the compiler with his macros.
 -   Working with email, specifically multipart and metadata, to ensure
     any implementation is compliant with old and new standards, proves
     to be a long and complicated process, and
-    [Romain](/wiki/User%3ADinosaure "wikilink") has been working hard battling
-    RFCs and bugs. He now has a prototype to test the implementation of
+    [Romain] has been working hard battling RFCs and bugs. He now has a prototype to test the implementation of
     [Mr Mime](https://github.com/oklm-wsh/MrMime) and "real world
     email", and is working on pretty-printing.
 
 <!-- -->
 
--   [Olivier](/wiki/User%3AOlivierNicole "wikilink") is developing the
-    [modular
+-   [Olivier] is developing the [modular
     macros](https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf)
     work initiated by Jeremy Yallop and Leo White. Macros retain the
     benefits of abstraction, eliminate interpretive overhead, and are
@@ -68,8 +61,7 @@ Olivier deep in the compiler with his macros.
 
 <!-- -->
 
--   [Philip Dexter](/wiki/Philip_Dexter "wikilink") from Binghamton University
-    joins our growing group of interns for 3 months, to work on a
+-   [Philip Dexter] from Binghamton University joins our growing group of interns for 3 months, to work on a
     reasoning system for approximate computations in OCaml. The system
     builds on the theory work at Binghampton, and will offer static
     error bounds and confidence intervals for computations for which a
@@ -90,29 +82,28 @@ Olivier deep in the compiler with his macros.
 More details of their implementations, and demos will be available
 towards the end of their internship programs.
 
-<small>Our internships are possible thanks to a combination of research
+Our internships are possible thanks to a combination of research
 and industrial funding. Romain is funded through the EU FP7 User Centric
-Networking project (grant no. 611001)</small>
+Networking project (grant no. 611001).
 
 Releases and Updates
 --------------------
 
--   Native code support for [multicore](/wiki/Multicore "wikilink") is
+-   Native code support for multicore is
     [here](https://github.com/ocamllabs/ocaml-multicore/commit/fc366191ff17fffa24aac34fad64c398d462af6d)!
     There is a PR under review to push the multicore branch up to 4.02.2
     to allow for installation of your favourite packages from
-    [OPAM](/wiki/OPAM "wikilink"). The goal is to benchmark this new 4.02.2
+    [OPAM]. The goal is to benchmark this new 4.02.2
     multicore version with the standard version.
 
 <!-- -->
 
--   [Ctypes 0.6](https://ocaml.io/w/Special:ShortUrl/3m) release with
+-   [Ctypes 0.6](https://github.com/ocamllabs/ocaml-ctypes/blob/master/CHANGES.md) release with
     async FFI support and improved cross compilation.
 
 <!-- -->
 
--   [Daniel Bünzli](/wiki/Daniel_Buenzli "wikilink") provided us with a
-    mass-release and update extravaganza last week, including the
+-   Daniel Bünzli provided us with a mass-release and update extravaganza last week, including the
     release of [`topkg`](https://github.com/dbuenzli/topkg),
     [`bos`](https://github.com/dbuenzli/bos) and
     [`fpath`](https://github.com/dbuenzli/fpath) - all designed to work
@@ -132,12 +123,10 @@ Releases and Updates
 
 <!-- -->
 
--   [Frederic Bour](/wiki/Frederic_Bour "wikilink") also joined us for a
-    couple of days to talk about the recent improvements and
-    implementations for [Merlin](/wiki/Merlin "wikilink"), including the Atom
-    integration for [Reason](/wiki/Reason "wikilink"). He's currently working
+-   Frederic Bour also joined us for a couple of days to talk about the recent improvements and
+    implementations for [Merlin](https://github.com/ocaml/merlin), including the Atom
+    integration for Reason. He's currently working
     on porting Merlin to OCaml 4.03. He also demonstrated his library
     for an interactive text interface using Emacs, which allows you to
     move on from printf-debugging and replay specific parts of the
     program's trace.
-
