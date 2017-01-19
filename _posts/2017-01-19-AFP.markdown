@@ -1,0 +1,11 @@
+---
+layout: post
+title: Advanced Functional Programming Course
+categories: [News, Teaching, Community]
+---
+
+This term welcomes the [Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1617/L28/) course held at the Computer Laboratory. This popular course is back for its third year and features lectures from Jeremy Yallop, Neel Krishnaswami and Leo White.
+
+This module aims to build on existing knowledge of modern typed functional programming languages such OCaml and Haskell by introducing techniques including GADTs, higher-order polymorphism, modular implicits and multi-stage programming.
+
+The course runs twice a week from now until mid-March.
