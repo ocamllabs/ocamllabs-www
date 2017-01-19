@@ -2,7 +2,7 @@
 title: AFL merged into OCaml trunk
 layout: page
 author: gemmag
-category: [News]
+category: [News, Project, System]
 ---
 
 [AFL](http://lcamtuf.coredump.cx/afl/) has been

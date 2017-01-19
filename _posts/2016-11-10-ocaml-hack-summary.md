@@ -2,7 +2,7 @@
 title: OCaml Hack Event - Activity Summaries
 layout: post
 author: gemmag
-categories: [News]
+categories: [News, Community]
 ---
 
 OCaml Labs held the [fifteenth compiler hack

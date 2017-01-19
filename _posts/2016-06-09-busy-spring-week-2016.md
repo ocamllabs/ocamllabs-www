@@ -2,7 +2,7 @@
 title: A busy spring week with multicore progress, releases, interns and visitors galore
 layout: post
 author: gemmag
-categories: [News]
+categories: [News, Community]
 ---
 
 Spring is an exciting time of year in the lab as we traditionally host a
