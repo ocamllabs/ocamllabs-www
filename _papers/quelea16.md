@@ -4,7 +4,7 @@ authors: ["KC Sivaramakrishnan", "Gowtham Kaki", "Suresh Jagannathan"]
 date: 20/01/2016
 venue:
   name: "the IEEE Data Engineering Bulletin 39(1)"
-  short-name: "IEEE"
+  short-name: "IEEE16"
   url: "http://sites.computer.org/debull/A16mar/issue1.htm"
   location:
 urls:
