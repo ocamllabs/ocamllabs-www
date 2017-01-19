@@ -2,7 +2,7 @@
 title: ICFP 2016 liveblog available
 layout: page
 author: avsm
-categories: [News]
+categories: [News, Community]
 ---
 
 The annual [ICFP](http://conf.researchr.org/home/icfp-2016) conference
@@ -14,8 +14,8 @@ Labs](https://github.com/ocamllabs/icfp2016-blog/issues?q=is%3Aopen+is%3Aissue+l
 
 We've created a liveblog unikernel to keep track of the proceedings, at
 **[icfp2016.mirage.io](http://icfp2016.mirage.io)**. This is powered by
-the [Canopy](http://github.com/engil/Canopy) system built by [Enguerrand
-Decorne](/wiki/User%3AEngil "wikilink") during his internship at OCaml Labs.
+the [Canopy](http://github.com/engil/Canopy) system built by Enguerrand
+Decorne during his internship at OCaml Labs.
 It uses much of the software pieces built for
 [MirageOS](https://mirage.io), including
 [Irmin](https://github.com/mirage/irmin) to track the Git data and live

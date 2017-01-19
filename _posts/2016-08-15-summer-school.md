@@ -5,9 +5,6 @@ author: gemmag
 categories: [News]
 ---
 
-<img src="Punting7.jpg" title="fig:The Orchard" alt="The Orchard" width="200" />
-<img src="Robinson3.jpg" title="fig:Hard at work" alt="Hard at work" width="200" />
-
 This summer we hosted the first International Summer School for
 Metaprogramming at [Robinson College](http://www.robinson.cam.ac.uk/),
 Cambridge. The event was a huge success and it would not have been
@@ -22,20 +19,6 @@ metaprogramming field. The goal of the school was to present recent
 research and development in the relatively modest field and we hoped to
 encourage discussion and collaboration amongst a diverse group of users
 and researchers.
-
---more --
-
-<img src="Robinson2.jpg" title="fig:Crausaz Wordsworth" alt="Crausaz Wordsworth" width="200" />
-<img src="Punting3.jpg" title="fig:Swans on the Cam" alt="Swans on the Cam" width="200" />
-
-<img src="DarwinCollege4.jpg" title="fig:Darwin banquet" alt="Darwin banquet" width="200" />
-<img src="Punting5.jpg" title="fig:Grantchester meadows" alt="Grantchester meadows" width="200" />
-<img src="DarwinCollege1.jpg" title="fig:Darwin gardens" alt="Darwin gardens" width="200" />
-<img src="Robinson1.jpg" title="fig:Robinson College gardens" alt="Robinson College gardens" width="200" />
-<img src="Punting4.jpg" title="fig:Dead Man&#39;s Corner on the River Cam" alt="Dead Man&#39;s Corner on the River Cam" width="200" />
-
-<img src="DarwinCollege6.jpg" title="fig:Caricatures" alt="Caricatures" width="200" />
-<img src="DarwinCollege5.jpg" title="fig:Spot the drawings!" alt="Spot the drawings!" width="200" />
 
 Robinson College provided the venue and accommodation, and the
 purpose-built, well-provisioned [Crausaz

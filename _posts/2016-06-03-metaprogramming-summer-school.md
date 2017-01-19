@@ -1,8 +1,8 @@
 ---
-title: International summer school on metaprogramming - Cambridge, UK, 8-12 August
+title: International Summer School on Metaprogramming - Cambridge, UK, 8-12 August
 layout: page
 author: gemmag
-categories: [News]
+categories: [News, Community]
 ---
 
 Jeremy Yallop and Ohad Kammar are hosting a [summer school on
@@ -23,8 +23,6 @@ practice.
 The summer school runs from **8-12 August 2016**, and will be held at
 Robinson College. More details, including registration, costs and
 timetable [here](http://www.cl.cam.ac.uk/events/metaprog2016/).
-
---more--
 
 Metaprogramming is an approach to improving programs by treating program
 fragments (such as expressions or types) as values that the program can
@@ -53,4 +51,3 @@ Metaprogramming comes in various forms, including:
     can be used to define a wide variety of functions, including
     traversals, comparisons, pretty printers, serialization functions,
     and many more.
-

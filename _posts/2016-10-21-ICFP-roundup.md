@@ -2,7 +2,7 @@
 title: ICFP Roundup - Talk Summaries and OCaml Workshop
 layout: page
 author: gemmag
-categories: [News]
+categories: [News, Community]
 ---
 
 ICFP 2016 is over!
@@ -12,8 +12,6 @@ presentations at the OCaml Workshop, 7 talks across the co-located
 workshops, and the OCaml Tutorial afternoon. Thank you to all of our
 student interns who volunteered at the conference, liveblogged and
 presented their work!
-
--- more --
 
 You can see a summary of each of the talks at the OCaml Workshop here:
 <http://reynard.io/2016/10/19/icfp-2016-roundup.html>,

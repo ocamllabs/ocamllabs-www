@@ -2,7 +2,7 @@
 title: Effective parallelism with Reagents @ London Facebook Faculty Summit
 layout: page
 author: kc
-categories: [News]
+categories: [News, Community]
 ---
 
 KC was invited to speak at the most recent [London Facebook Faculty
@@ -16,8 +16,6 @@ scheduled talks including
 latest progress in the OCaml Multicore project. Algebraic effects allow
 cooperative concurrency whilst the Reagents library presents composable
 lock-free synchronisation using a compare-and-swap method.
-
---more--
 
 [Read more](http://kcsrk.info/ocaml/multicore/2016/06/11/lock-free/)
 about the motivations behind the Reagents library, and the need for
