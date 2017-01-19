@@ -1,6 +1,6 @@
 ---
 title: "Flexible Paxos: Quorum Intersection Revisited"
-authors: ["Heidi Howard", "Dahlia Malkhi" and "Alexander Spiegelman"]
+authors: ["Heidi Howard", "Dahlia Malkhi", "Alexander Spiegelman"]
 date: 25/08/2016
 venue:
   name:

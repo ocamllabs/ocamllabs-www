@@ -1,6 +1,6 @@
 ---
 title: "Composable Scheduler Activations for Haskell"
-authors: ["KC Sivaramakrishnan", "Tim Harris", "Simon Marlow" and "Simon Peyton Jones"]
+authors: ["KC Sivaramakrishnan", "Tim Harris", "Simon Marlow", "Simon Peyton Jones"]
 date: 27/06/2016
 venue:
   name: "in Volume 26 of the Journal of Functional Programming"
