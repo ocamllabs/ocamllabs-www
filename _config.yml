@@ -30,9 +30,9 @@ kramdown:
   input: GFM
 
 collections:
-  - authors
-  - roles
-  - papers
+  authors:
+  roles:
+  papers:
+  releases:
+   output: true
 
-# used this for post_excerpt at index_page
-excerpt_separator: <!--description-->

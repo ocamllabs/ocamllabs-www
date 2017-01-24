@@ -176,25 +176,45 @@ input#menu-toggle {
   }
 }
 
+.intro_home {
+  margin-bottom: 2rem; 
+  line-height: 1.2em;
+}
+
 .post {
   @extend .dont-break-out;
 }
 
 .post-list {
-  
+  font-size: 1.5rem;
+  line-height: 1.1em;
+}
+
+.post_card {
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid lightgray;
 }
 
 .post_header {
-  margin-bottom:1rem;
 }
 
 .post_title {
-  margin-bottom:0.5rem;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.post_title_light {
+  font-size: 1.6rem;
+}
+
+.post_excerpt {
+  font-size: 1.4rem;
 }
 
 .post_date {
-  color:#888;
-  font-size:1.4rem;
+  color:#666;
+  font-size: 1.3rem;
+  font-style: italic;
 }
 
 p.readmore {
@@ -202,14 +222,17 @@ p.readmore {
 }
 
 .post_meta {
-  .author_meta {
-    img {
-      height:24px;
-      width:24px;
-    }
-  }
+  font-style: italic;
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
 }
 
+.author_meta {
+ img {
+   height:3rem;
+ }
+ float: right;
+}
 .post_archive {
 
 }
@@ -219,7 +242,7 @@ p.readmore {
 }
 
 .role-header {
-  font-size: 110%;
+  font-size: 1.2rem;
   border-bottom: 1px solid lightgray;
   margin-bottom: 10px;
 }
@@ -349,7 +372,7 @@ body.custom-background {
 
 .paper_year {
   font-weight: bold;
-  font-size: 120%;
+  font-size: 1.2rem;
   border-bottom: 1px dashed #ccccee;
   margin-bottom: 10px;
 }
