@@ -33,6 +33,7 @@ collections:
   authors:
   roles:
   papers:
+  events:
   releases:
    output: true
 
