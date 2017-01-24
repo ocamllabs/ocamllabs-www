@@ -9,8 +9,8 @@ DTSTAMP:{{ event.start | date: "%Y%m%dT%H%M%S" }}
 ORGANIZER;CN={{ event.author }}:MAILTO:john.doe@example.com
 DTSTART:{{ event.start | date: "%Y%m%dT%H%M%S" }}
 DTEND:{{ event.end | date: "%Y%m%dT%H%M%S" }}
-SUMMARY: {{ event.title }}
-LOCATION: {{ event.location }}
+SUMMARY:{{ event.title }}
+LOCATION:{{ event.location }}
 END:VEVENT{% endfor %}
 END:VCALENDAR
 
