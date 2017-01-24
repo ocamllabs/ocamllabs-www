@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Advanced Functional Programming Course
+author: gemmag
 categories: [News, Teaching, Community]
 ---
 
