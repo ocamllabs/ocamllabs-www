@@ -2,7 +2,7 @@
 title: Effective parallelism with Reagents @ London Facebook Faculty Summit
 layout: page
 author: kc
-categories: [News, Community]
+categories: [News, Community, Events]
 ---
 
 KC was invited to speak at the most recent [London Facebook Faculty
