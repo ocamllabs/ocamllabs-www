@@ -2,7 +2,7 @@
 title: Multicore OCaml and Reagents - LDN Functionals @ Jane Street
 layout: page
 author: kc
-categories: [News, Community]
+categories: [News, Community, Events]
 ---
 
 The recent [LDN
