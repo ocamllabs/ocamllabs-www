@@ -2,7 +2,7 @@
 title: ICFP 2016 liveblog available
 layout: page
 author: avsm
-categories: [News, Community, Events]
+category: Events
 ---
 
 The annual [ICFP](http://conf.researchr.org/home/icfp-2016) conference

@@ -2,7 +2,8 @@
 title: ARM-ed with Reason
 layout: page
 author: kc
-categories: [News]
+category: Projects
+tags: docker, embedded
 ---
 
 I've been enjoying working with [Reason](http://facebook.github.io/reason/), and looking at ways to combine ARM, Reason

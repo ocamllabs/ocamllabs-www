@@ -2,7 +2,8 @@
 title: ICFP Roundup - Talk Summaries and OCaml Workshop
 layout: page
 author: gemmag
-categories: [News, Community, Events]
+category: Events
+tags: icfp
 ---
 
 ICFP 2016 is over!

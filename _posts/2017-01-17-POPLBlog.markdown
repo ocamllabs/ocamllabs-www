@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POPL 2017 Liveblog
-categories: [News, Community, Events]
+category: Events
 author: gemmag
 ---
 

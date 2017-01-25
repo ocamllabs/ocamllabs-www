@@ -2,7 +2,7 @@
 layout: post
 title: Advanced Functional Programming Course
 author: gemmag
-categories: [News, Teaching, Community]
+category: Teaching
 ---
 
 This term welcomes the [Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1617/L28/) course held at the Computer Laboratory. This popular course is back for its third year and features lectures from Jeremy Yallop, Neel Krishnaswami and Leo White.

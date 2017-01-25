@@ -1,7 +1,7 @@
 ---
 title: MirageOS Hackathon - Trip Reports
 layout: page
-categories: [Events]
+category: Events
 author: gemmag
 ---
 

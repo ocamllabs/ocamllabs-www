@@ -6,19 +6,24 @@ title: Posts
 
 <div>
 
-  <h2>Archive</h2>
+  <header class="category_list">
+    {% for category in site.categories %}
+      <a href="#{{category|first}}">{{category|first}}</a> 
+      {% unless forloop.last %} ● {% endunless %}
+    {% endfor %}
+  </header>
 
   <section class="archive_list">
     {% for category in site.categories %}
 
-    <div class="category-name">
-      <h2>{{ category | first }}</h2>
+    <div class="category_name">
+      <h2 id="{{category | first}}">{{ category | first }}</h2>
     </div>
     {% for post in category.last %}
 
-    <div class="post_title">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-      <span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+    <div class="post_title_light">
+       » <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+      <span class="post_date">{{ post.date | date: "%-d %b, %Y" }}</span>
     </div>
 
     {% endfor %}

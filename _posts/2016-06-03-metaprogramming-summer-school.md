@@ -2,7 +2,8 @@
 title: International Summer School on Metaprogramming - Cambridge, UK, 8-12 August
 layout: page
 author: gemmag
-categories: [News, Community, Teaching, Events]
+category: Teaching
+tags: metaprogramming
 ---
 
 Jeremy Yallop and Ohad Kammar are hosting a [summer school on

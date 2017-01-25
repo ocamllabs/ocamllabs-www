@@ -2,7 +2,7 @@
 title: A new Reason for OCaml
 layout: page
 author: kc
-categories: [News]
+category: Releases
 ---
 
 [Reason](http://facebook.github.io/reason/) is a collaborative open source project

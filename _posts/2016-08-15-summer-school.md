@@ -2,7 +2,8 @@
 title: International Summer School on Metaprogramming 2016
 layout: page
 author: gemmag
-categories: [News, Community, Teaching, Events]
+category: Events
+tags: metaprogramming
 ---
 
 This summer we hosted the first International Summer School for

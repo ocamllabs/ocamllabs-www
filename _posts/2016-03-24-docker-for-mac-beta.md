@@ -2,7 +2,7 @@
 title: Docker for Mac and Windows Beta
 layout: page
 author: gemmag
-categories: [News]
+category: Releases
 ---
 
 [Docker](https://www.docker.com/) have released a limited availability

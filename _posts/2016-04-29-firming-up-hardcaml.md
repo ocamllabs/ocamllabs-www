@@ -1,8 +1,8 @@
 ---
 title: Firming Up HardCaml
 layout: page
-tags: [News]
 author: gemmag
+category: Projects
 ---
 
 [HardCaml](/wiki/HardCaml "wikilink") was introduced by [Andy

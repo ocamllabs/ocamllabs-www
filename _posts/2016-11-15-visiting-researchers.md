@@ -2,7 +2,7 @@
 title: Visiting Researchers in Winter 2016
 layout: page
 author: gemmag
-categories: [News]
+category: General
 ---
 
 We are always excited to host interns and visitors to the lab, and we

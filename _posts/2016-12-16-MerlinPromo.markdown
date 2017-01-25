@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merlin promoted to headline OCaml project
-categories: [News, Project, Platform]
+category: Projects
 author: gemmag
 ---
 

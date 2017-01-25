@@ -2,7 +2,7 @@
 title: Seeing double! Mirage 2.8 and 2.9 released
 layout: page
 author: gemmag
-categories: [News]
+category: Releases
 ---
 
 April was a busy month and saw two new [MirageOS](/wiki/MirageOS "wikilink")

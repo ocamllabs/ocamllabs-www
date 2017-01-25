@@ -1,7 +1,8 @@
 ---
 title: The missing Links compiler - with multi-shot effect handlers
 layout: page
-categories: [News, Project, System]
+category: System
+tags: multicore, effects
 ---
 
 [Daniel Hillerström] visited us for the last two weeks to work on a native

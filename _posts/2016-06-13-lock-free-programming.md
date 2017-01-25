@@ -2,7 +2,8 @@
 title: Lock-free programming for the masses
 layout: page
 author: kc
-categories: [News, Project, System]
+categories: Projects
+tags: multicore
 ---
 
 Progress with multicore is moving forward
