@@ -34,7 +34,7 @@ collections:
   roles:
   papers:
   events:
-  wiki:
+  doc:
    output: true
   releases:
    output: true

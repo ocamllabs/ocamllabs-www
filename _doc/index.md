@@ -8,6 +8,10 @@ layout: page
 
 This refers to the core compiler toolchain, the [OCaml language](https://caml.inria.fr/) and runtime system. Our work includes daily maintenance such as bug fixes and long term improvements to the type system and runtime libraries. We are actively engaging with the wider OCaml community to ensure that improvements and modifications we propose are thoroughly discussed, well-formulated and maintainable. Recent projects include significant work towards multicore support for parallelism and concurrency in OCaml together with greater facilitation for metaprogramming approaches.
 
+Major efforts in this space include:
+
+* [Multicore OCaml](/doc/multicore.html)
+
 ## OCaml Platform
 
 The Platform combines the core OCaml compiler with a coherent set of libraries, tools and documentation. We look to large-scale users of OCaml to guide the direction of development in this area, including [Jane Street](https://blogs.janestreet.com/category/ocaml/), [MirageOS](https://mirage.io/), [Docker](https://blog.docker.com/2016/06/docker-mac-windows-public-beta/) and [Facebook](https://github.com/facebook/reason). Recent developments have focussed on the developer experience; tooling improvements around packaging, build and test infrastructure; and support for different operating systems and infrastructures.
