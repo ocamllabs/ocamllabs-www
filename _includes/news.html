@@ -1,0 +1,10 @@
+<h2>Recent Activity</h2>
+<div class="post_news">
+{% for post in site.tags[include.name] %}
+<div class="post_title_light">
+  »
+      <span class="post_date">{{ post.date | date: "%-d %b, %Y" }}</span>:
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+</div>
+{% endfor %}
+</div>

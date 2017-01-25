@@ -13,40 +13,9 @@ parallelism through domains and incremental GC. Rather than adding a
 specific multicore scheduler into the runtime system, we're providing
 the minimum required toolset in the form of pluggable schedulers.
 
-### Why Multicore?
+{% include news.html name="multicore" %}
 
-OCaml has good monadic concurrency libraries (`lwt` and `async`) but the
-long term goal is to move away from the monadic model towards modular
-libraries that support true parallelism - concurrent threads of
-execution multiplexed over available cores. Currently, threading is
-supported in OCaml via the global interpreter lock (GIL), but this
-prohibits multiple threads running OCaml code at any one time. Our goal
-is to design and implement an OCaml runtime capable of shared-memory
-parallelism. `TODO ev:youtube| FzmQTC\_X5R4 |400|right|Multicore OCaml
-overview (OCaml Workshop 2014)|frame`
-
-### Challenges
-
-Adding shared-memory parallelism to an existing language presents an
-interesting set of challenges. As well as the difficulties of memory
-management in a parallel setting, we must maintain as much backwards
-compatibility as practicable. This includes not just compatibility of
-the language semantics, but also of the performance profile, memory
-usage and C bindings.
-
-The biggest challenge is implementing the garbage collector. GC in OCaml
-is interesting because of pervasive immutability. Many objects are
-immutable, which simplifies some aspects of a parallel GC but requires
-the GC to sustain a very high allocation rate. Operations on immutable
-objects are very fast in OCaml: allocation is by bumping a pointer,
-initialising writes (the only ones) are done with no barriers, and reads
-require no barriers. Our design is focussed on keeping these operations
-as fast as they are at the moment, with some compromises for mutable
-objects.
-
-## More Information
-
-### Repositories
+## Repositories
 
 -   [GitHub: Multicore
     OCaml](https://github.com/ocamllabs/ocaml-multicore)
@@ -55,7 +24,7 @@ objects.
     handlers](https://github.com/kayceesrk/ocaml-eff-example)
 -   [`reagents`](https://github.com/ocamllabs/reagents)
 
-### Articles
+## Articles
 
 -   [Initial
     Proposal](https://github.com/ocamllabs/compiler-hacking/wiki/Multicore-runtime) -
@@ -73,7 +42,7 @@ objects.
     masses](http://kcsrk.info/ocaml/multicore/2016/06/11/lock-free/) -
     June 2016
 
-### Talks/Presentations
+## Talks/Presentations
 
 -   [Arrows and
     Reagents](https://speakerdeck.com/kayceesrk/arrows-and-reagents) -
