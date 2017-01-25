@@ -1,7 +1,7 @@
 ---
 title: Migrating to PPX
 layout: page
-category: System
+category: Projects
 author: gemmag
 ---
 
