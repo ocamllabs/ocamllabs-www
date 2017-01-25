@@ -16,6 +16,8 @@ Major efforts in this space include:
 
 The Platform combines the core OCaml compiler with a coherent set of libraries, tools and documentation. We look to large-scale users of OCaml to guide the direction of development in this area, including [Jane Street](https://blogs.janestreet.com/category/ocaml/), [MirageOS](https://mirage.io/), [Docker](https://blog.docker.com/2016/06/docker-mac-windows-public-beta/) and [Facebook](https://github.com/facebook/reason). Recent developments have focussed on the developer experience; tooling improvements around packaging, build and test infrastructure; and support for different operating systems and infrastructures.
 
+* [Merlin IDE integration](/doc/merlin.html)
+
 ## MirageOS
 
 [MirageOS](https://mirage.io) is a library operating system written in OCaml that can be used to build unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms.

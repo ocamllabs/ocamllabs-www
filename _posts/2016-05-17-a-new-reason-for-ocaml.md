@@ -3,6 +3,7 @@ title: A new Reason for OCaml
 layout: page
 author: kc
 category: Releases
+tags: merlin reason
 ---
 
 [Reason](http://facebook.github.io/reason/) is a collaborative open source project
