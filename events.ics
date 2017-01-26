@@ -3,7 +3,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
-{% for event in site.events %}BEGIN:VEVENT
+{% for event in site.events %}
+BEGIN:VEVENT
 UID:{{ event.title }}
 DTSTAMP:{{ date.time | date: "%Y%m%dT%H%M%S" }}
 ORGANIZER;CN={{ event.author }}:MAILTO:john.doe@example.com
