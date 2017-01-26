@@ -4,8 +4,6 @@ title: "Merlin"
 layout: page
 ---
 
-## Overview
-
 Merlin is an IDE for editing OCaml code that offers:
 
 * Type driven autocompletion

@@ -4,8 +4,6 @@ title: "Multicore OCaml"
 layout: page
 ---
 
-## Overview
-
 The goal of Multicore OCaml is to add shared memory parallelism to
 OCaml. Our implementation uses [algebraic
 effects](http://www.eff-lang.org/) to compose concurrency and supports
@@ -62,4 +60,3 @@ the minimum required toolset in the form of pluggable schedulers.
 -   [Multicore
     OCaml](https://www.youtube.com/watch?v=FzmQTC_X5R4&list=UUP9g4dLR7xt6KzCYntNqYcw) -
     OCaml Workshop - September 2014
-
