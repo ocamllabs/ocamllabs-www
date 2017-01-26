@@ -4,7 +4,9 @@ title: "Merlin"
 layout: page
 ---
 
-Merlin is an IDE for editing OCaml code that offers: 
+## Overview
+
+Merlin is an IDE for editing OCaml code that offers:
 
 * Type driven autocompletion
 * "As you type" error reporting
@@ -14,3 +16,7 @@ Merlin is an IDE for editing OCaml code that offers:
 Merlin is editor independent, but support exists for Vim, Emacs and Atom.
 
 {% include news.html name="merlin" %}
+
+## Repositories
+
+* [GitHub: OCaml Merlin](https://github.com/ocaml/merlin)
