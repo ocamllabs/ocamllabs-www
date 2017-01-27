@@ -37,6 +37,7 @@ collections:
   authors:
   roles:
   papers:
+  talks:
   events:
   doc:
    output: true
