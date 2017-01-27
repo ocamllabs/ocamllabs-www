@@ -7,8 +7,7 @@ git config --global user.email "bactrian@recoil.org"
 git config --global user.name "CI Bot"
 cd _site
 git init
-git checkout -b gh-pages
 git add *
 git commit -m sync -a
 git remote add origin git@github.com:ocamllabs/ocamllabs.github.io
-git push -u origin +gh-pages
+git push -u origin +master
