@@ -22,7 +22,9 @@ title: Posts
     {% for category in site.categories %}
 
     <div class="category_name">
-      <h2 id="{{category | first}}">{{ category | first }}</h2>
+      {% assign cat = category  | first %}
+      {% assign i = site.data.icons | where:"name",{{cat}} | first %}
+      <h2 id="{{cat}}"><i class="fa fa-{{i.icon}} fa-lg"></i> &nbsp; {{cat}}</h2>
     </div>
     {% for post in category.last %}
 

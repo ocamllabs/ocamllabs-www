@@ -30,7 +30,7 @@ title: Home
         <div class="post_title">
           {% assign cat = post.categories | first %}
           {% assign i = site.data.icons | where:"name",{{cat}} | first %}
-          <i class="fa fa-{{i.icon}} fa-lg"></i>
+          <a href="/news/#{{cat}}"><i class="fa fa-{{i.icon}} fa-lg"></i></a>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
           <a class="readmore" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
         </div>
@@ -45,11 +45,6 @@ title: Home
           {% endif %} 
         </p> 
       </div>
-      <footer class="post_meta">
-        {% for category in post.categories %}
-        <a href="{{"/categories/" | prepend: site.baseurl }}">{{category}}</a>
-        {% endfor %}
-      </footer>
     </article>
     {% endfor %}
 
