@@ -27,6 +27,9 @@
 - Framse
 */
 
+$fa-font-path: "../assets/fonts/font-awesome/";
+@import "font-awesome";
+
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }

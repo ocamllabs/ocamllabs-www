@@ -18,7 +18,10 @@ gem "minima"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
+gem 'font-awesome-sass', '~> 4.7.0'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-responsive-image'
+  gem 'jekyll-assets'
 end

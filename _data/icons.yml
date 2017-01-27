@@ -1,0 +1,14 @@
+- name: General
+  icon: newspaper-o
+
+- name: Releases
+  icon: cloud-upload
+
+- name: Projects
+  icon: tasks
+
+- name: Events
+  icon: meetup
+
+- name: Teaching
+  icon: mortar-board
