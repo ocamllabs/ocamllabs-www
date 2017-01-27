@@ -24,6 +24,10 @@ url: "https://ocamllabs.github.io/"
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - script
+  - Dockerfile
+  - .travis.yml
 
 markdown: kramdown
 kramdown:
@@ -39,3 +43,13 @@ collections:
   releases:
    output: true
 
+responsive_image:
+  template: _includes/responsive-image.html
+  default_quality: 90
+  sizes:
+    - width: 190
+      quality: 80
+    - width: 1400
+  base_path: assets
+  output_path_format: assets/resized/%{width}/%{basename}
+  

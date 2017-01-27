@@ -1,0 +1,15 @@
+language: ruby
+sudo: false
+rvm:
+- 2.3.3
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+script: ./script/cibuild
+deploy:
+  provider: script
+  script: ./script/cideploy
+  skip_cleanup: true
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_dd48d451c1d3_key -iv $encrypted_dd48d451c1d3_iv
+  -in script/deploy_id_rsa.enc -out deploy_id_rsa -d

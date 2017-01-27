@@ -246,6 +246,35 @@ p.readmore {
 
 }
 
+.image-thumbnail-left {
+  img {
+    float: left;
+    padding-right: 10px;
+  }
+}
+
+.image-thumbnail-right {
+  img {
+    float: right;
+    padding-left: 10px;
+  }
+}
+
+.image_block {
+  text-align: justify; 
+}
+
+.image_block:after {
+ content:"";
+ display: inline-block;
+ width: 100%;
+ height: 0;
+}
+
+.image_block_elem {
+  display: inline-block;
+}
+
 .role-header {
   font-size: 1.2rem;
   border-bottom: 1px solid lightgray;

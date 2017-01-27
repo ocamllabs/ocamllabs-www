@@ -21,6 +21,8 @@ research and development in the relatively modest field and we hoped to
 encourage discussion and collaboration amongst a diverse group of users
 and researchers.
 
+{% include thumb.html name="punting7.jpg" pos="left" %}
+
 Robinson College provided the venue and accommodation, and the
 purpose-built, well-provisioned [Crausaz
 Wordsworth](http://www.robinson.cam.ac.uk/conferences/meet/crausaz-wordsworth-building)
@@ -29,6 +31,8 @@ Students and speakers had access to the beautiful college gardens to
 explore during their residential stay, and the days were packed with
 presentations, demos and talks, with excited conversation continuing
 into the evenings.
+
+{% include thumbs.html name1="Robinson1.jpg" name2="Robinson2.jpg" name3="Robinson3.jpg" %}
 
 In order to balance the high-focus schedule with some downtime, we
 punted along the meadows towards Grantchester, in hunt of the obligatory

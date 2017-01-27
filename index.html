@@ -13,7 +13,7 @@ title: Home
 <div class="home">
   <div class="post-list four columns">
     {% assign releases = site.releases | sort: 'date' | reverse %}
-    {% for post in releases limit:15 %}
+    {% for post in releases limit:10 %}
     <article class="post_card post">
       <header class="post_header">
         <div class="post_title_light"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></div>
