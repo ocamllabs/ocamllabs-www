@@ -1,5 +1,5 @@
 ---
-uid: "mort"
+uid: "mort1"
 fullname: "Richard Mortier"
 bio: "Mort also loves to Jam"
 homepage: "http://mort.io/"
