@@ -6,6 +6,7 @@ category: Events
 tags: metaprogramming
 ---
 
+{% include thumb.html name="punting7.jpg" pos="right" %}
 This summer we hosted the first International Summer School for
 Metaprogramming at [Robinson College](http://www.robinson.cam.ac.uk/),
 Cambridge. The event was a huge success and it would not have been
@@ -20,8 +21,6 @@ metaprogramming field. The goal of the school was to present recent
 research and development in the relatively modest field and we hoped to
 encourage discussion and collaboration amongst a diverse group of users
 and researchers.
-
-{% include thumb.html name="punting7.jpg" pos="left" %}
 
 Robinson College provided the venue and accommodation, and the
 purpose-built, well-provisioned [Crausaz
@@ -43,6 +42,8 @@ in the sun. [Darwin College](https://www.darwin.cam.ac.uk/) hosted us
 for our evening banquet, where we were lucky to have the entire dining
 room to ourselves, a chance for lovely walks across the islands, and a
 local caricaturist on hand to draw the guests.
+
+{% include thumbs.html name1="Punting4.jpg" name2="Punting5.jpg" name3="punting7.jpg" %}
 
 The school was a fantastic opportunity to gather specialists and
 newcomers within this research field, and initial feedback has been very
@@ -113,3 +114,5 @@ You can see the entire
 materials](http://www.cl.cam.ac.uk/events/metaprog2016/lectures.html)
 and other information on the Summer School
 [site](http://www.cl.cam.ac.uk/events/metaprog2016/index.html).
+
+{% include thumbs.html name1="Robinson1.jpg" name2="Robinson2.jpg" name3="Robinson3.jpg" %}
