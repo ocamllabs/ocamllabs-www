@@ -5,7 +5,7 @@ title: Talks
 ---
 
 {% for talk in site.talks reversed %}
-  {% assign currentdate = paper.talk | date: "%Y" %}
+  {% assign currentdate = talk.date | date: "%Y" %}
   {% if currentdate != date %}
     <div id="y{{currentdate}}" class="paper_year">{{ currentdate }}</div>
     {% assign date = currentdate %} 

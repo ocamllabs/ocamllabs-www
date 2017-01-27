@@ -20,23 +20,18 @@ title: Posts
 
   <section class="archive_list">
     {% for category in site.categories %}
-
     <div class="category_name">
       {% assign cat = category  | first %}
       {% assign i = site.data.icons | where:"name",{{cat}} | first %}
       <h2 id="{{cat}}"><i class="fa fa-{{i.icon}} fa-lg"></i> &nbsp; {{cat}}</h2>
     </div>
     {% for post in category.last %}
-
     <div class="post_title_light">
        » <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
       <span class="post_date">{{ post.date | date: "%-d %b, %Y" }}</span>
     </div>
-
     {% endfor %}
-
     {% endfor %}
-
   </section>
 </div>
 

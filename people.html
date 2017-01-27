@@ -4,7 +4,10 @@ permalink: /people/
 title: People
 ---
 
+{% include intro-people.html %}
+
 {% for role in site.roles %}
+<div class="six columns">
 <div class="role-group">
   <div class="role-header">{{role.name}}</div>
   <p>{{role.descr}}</p>
@@ -23,4 +26,5 @@ title: People
     </section>
   {% endfor %}
   </div>
+</div>
 {% endfor %}

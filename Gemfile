@@ -23,5 +23,4 @@ gem 'font-awesome-sass', '~> 4.7.0'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-responsive-image'
-  gem 'jekyll-assets'
 end

@@ -53,4 +53,3 @@ responsive_image:
     - width: 1400
   base_path: assets
   output_path_format: assets/resized/%{width}/%{basename}
-  
