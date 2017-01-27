@@ -5,6 +5,6 @@ bio: "Qi likes to Jam"
 homepage:
 github: "sevenEng"
 twitter:
-role: "visitor"
-photo: 
+role: "visitors"
+photo:
 ---
