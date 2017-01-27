@@ -16,7 +16,9 @@ title: Talks
    <div class="paper_venue">in {{talk.venue.name}} (<a href="{{talk.venue.url}}">{{talk.venue.short-name}})</a></div>
    <div class="paper_urls">
     {% for url in talk.urls %}
+     {% if url[1] %}
      <span class="paper_url"><a href="{{url[1]}}">[{{url[0]}}]</a></span>
+     {% endif %}
     {% endfor %}
     </div>
  </div>
