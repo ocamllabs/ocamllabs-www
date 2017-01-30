@@ -11,4 +11,5 @@ urls:
   pdf:
   slides:
   video: "https://www.youtube.com/watch?v=PTtI8hpR7hQ"
+tags: mirage nqsb
 ---

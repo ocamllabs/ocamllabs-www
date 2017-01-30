@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://techtalks.event.cam.ac.uk/downloads/reaching-reliable-agreement"
   video:
+tags: consensus
 ---

@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://decks.openmirage.org/fosdem14#/"
   video: "http://mirrors.dotsrc.org/fosdem/2014/Janson/Sunday/MirageOS_compiling_functional_library_operating_systems.webm"
+tags: mirage
 ---

@@ -12,4 +12,5 @@ urls:
   slides: "http://www.slideshare.net/xen_com_mgr/xendevsummit14-mirage2"
   summary:
   video: "https://www.youtube.com/watch?v=4Wt5VB86XGw"
+tags: mirage
 ---

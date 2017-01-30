@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://decks.openmirage.org/darmstadt-seminar#/"
   video:
+tags: mirage
 ---

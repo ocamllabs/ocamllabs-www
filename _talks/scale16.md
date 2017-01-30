@@ -10,4 +10,5 @@ venue:
 urls:
   pdf:
   slides: "http://decks.openmirage.org/cif16-loops#/"
+tags: mirage
 ---

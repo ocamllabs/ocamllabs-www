@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "https://drive.google.com/file/d/0BxF8GAdhXovPR3MxOWtyMFZ0MTQ/view"
   video: "https://www.youtube.com/watch?v=et80JDHL1MM"
+tags: mirage irmin
 ---

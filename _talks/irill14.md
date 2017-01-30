@@ -12,4 +12,5 @@ urls:
   slides: "http://decks.openmirage.org/irill14-seminar#/"
   summary:
   video:
+tags: mirage
 ---

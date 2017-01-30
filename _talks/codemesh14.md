@@ -12,4 +12,5 @@ urls:
   slides: "http://decks.openmirage.org/codemesh2014#/"
   summary: "http://www.codemesh.io/codemesh2014/anil-madhavapeddy"
   video: "https://www.youtube.com/watch?v=hAZhm66pwhc&feature=youtu.be"
+tags: mirage databox
 ---

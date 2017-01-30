@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://dominic-mulligan.co.uk/wp-content/uploads/2015/05/slides.pdf"
   video:
+tags: mlsub
 ---

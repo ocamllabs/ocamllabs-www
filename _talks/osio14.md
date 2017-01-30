@@ -12,4 +12,5 @@ urls:
   slides: "http://decks.openmirage.org/osio2014#/"
   summary:
   video: 
+tags: mirage jitsu
 ---

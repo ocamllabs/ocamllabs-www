@@ -12,4 +12,5 @@ urls:
   slides: "https://github.com/ocamllabs/papers/blob/master/irmin/2015.09.SoftwareCircus/irmin/presentation.pdf"
   summary: "http://programmableinfrastructure.softwarecircus.io/anil-madhavapeddy/"
   video:
+tags: mirage irmin
 ---

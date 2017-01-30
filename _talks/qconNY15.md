@@ -10,4 +10,5 @@ venue:
 urls:
   pdf:
   slides: "http://decks.openmirage.org/qcon15-mirage#/"
+tags: nqsb mirage
 ---

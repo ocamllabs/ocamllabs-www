@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "https://github.com/ocamllabs/papers/blob/master/fpx-algebraic-effects-talk/slides/build-your-own-effects.pdf"
   report: "http://theburningmonk.com/2015/06/functional-programming-exchange-experience-report/"
+tags: effects
 ---

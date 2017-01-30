@@ -12,4 +12,5 @@ urls:
   slides: "http://decks.openmirage.org/functionalconf14#/"
   summary:
   video: "https://www.youtube.com/watch?v=WZMJNrGKgKo"
+tags: mirage
 ---

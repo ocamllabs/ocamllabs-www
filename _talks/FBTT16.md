@@ -12,4 +12,5 @@ urls:
   slides: "http://kcsrk.info/slides/multicore_fb16.pdf"
   summary:
   video:
+tags: multicore effects
 ---

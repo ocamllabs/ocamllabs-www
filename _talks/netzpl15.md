@@ -12,4 +12,5 @@ urls:
   slides:
   summary: "https://11.netzpolitik.org/schedule/mirageos-robust-operating-system-reengineering-from-the-grounds-up/"
   video: "https://media.ccc.de/v/11np-13-MirageOS_Robust_Operating_System"
+tags: mirage
 ---

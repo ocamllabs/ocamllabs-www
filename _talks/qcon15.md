@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://decks.openmirage.org/qconlondon15"
   video: "https://www.youtube.com/watch?v=bC7rTUEZfmI"
+tags: mirage
 ---

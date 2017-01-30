@@ -12,4 +12,5 @@ urls:
   slides: "http://kcsrk.info/slides/reagents_fb_fac_summit_16.pdf"
   summary:
   video:
+tags: effects reagents multicore
 ---

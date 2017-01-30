@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://bobkonf.de/2016/slides/mehnert.pdf"
   video: "https://www.youtube.com/watch?v=3Ca40xVciac&feature=youtu.be"
+tags: mirage databox
 ---

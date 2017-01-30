@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "https://www.dropbox.com/s/zkp3rka46rk1jsc/ocl-platform-2015.pdf?dl=0"
   video:
+tags: platform
 ---

@@ -10,4 +10,5 @@ venue:
 urls:
   pdf:
   slides: "http://decks.openmirage.org/oscon14#/"
+tags: databox mirage
 ---

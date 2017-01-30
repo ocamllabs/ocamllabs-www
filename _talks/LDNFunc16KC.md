@@ -12,4 +12,5 @@ urls:
   slides: "http://kcsrk.info/slides/reagents_aug_2_17.pdf"
   summary:
   video: "https://www.youtube.com/watch?v=qRWTws_YPBA&feature=youtu.be"
+tags: multicore reagents
 ---

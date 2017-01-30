@@ -10,4 +10,5 @@ venue:
 urls:
   pdf: "http://cps-vo.org/printpdf/19219"
   slides: "http://cps-vo.org/sites/all/libraries/pdf.js/web/viewer.html?file=http://cps-vo.org/sites/default/files/bitcache/file/737eb57dcc3709935ab8ca46a0b9459f5084e7b7#page=1&zoom=auto,-23,430"
+tags: nqsb mirage
 ---

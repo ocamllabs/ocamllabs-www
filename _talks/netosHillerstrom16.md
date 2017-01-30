@@ -12,4 +12,5 @@ urls:
   slides:
   summary: "http://talks.cam.ac.uk/talk/index/65945"
   video:
+tags: effects multicore
 ---

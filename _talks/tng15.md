@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://decks.openmirage.org/bigtechday8#/"
   video: "https://www.youtube.com/watch?v=J9UGqO86CfE"
+tags: mirage databox
 ---

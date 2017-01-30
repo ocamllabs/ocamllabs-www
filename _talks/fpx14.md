@@ -10,4 +10,5 @@ venue:
 urls:
   pdf:
   slides: "http://decks.openmirage.org/fpx14#/"
+tags: mirage
 ---

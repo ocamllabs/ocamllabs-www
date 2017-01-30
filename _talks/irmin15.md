@@ -10,4 +10,5 @@ venue:
 urls:
   slides: "http://decks.openmirage.org/ocaml15-irminnet#/"
   video: "https://www.youtube.com/watch?v=nUJYGFJDVVo&index=12&list=PLnqUlCo055hU46uoONmhYGUbYAK27Y6rS"
+tags: mirage irmin
 ---

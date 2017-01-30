@@ -10,4 +10,5 @@ venue:
 urls:
   pdf:
   slides:
+tags: nqsb
 ---

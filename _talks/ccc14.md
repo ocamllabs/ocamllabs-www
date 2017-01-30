@@ -12,4 +12,5 @@ urls:
   slides: "http://decks.openmirage.org/31c3#/"
   summary:
   video: "https://media.ccc.de/v/31c3_-_6443_-_en_-_saal_2_-_201412271245_-_trustworthy_secure_modular_operating_system_engineering_-_hannes_-_david_kaloper"
+tags: nqsb mirage
 ---

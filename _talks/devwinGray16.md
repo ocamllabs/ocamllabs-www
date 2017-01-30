@@ -11,4 +11,5 @@ urls:
   pdf:
   slides:
   summary: "http://devcycles.net/2016/winter/sessions/index.php?session=71"
+tags: mirage
 ---

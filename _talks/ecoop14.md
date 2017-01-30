@@ -12,4 +12,5 @@ urls:
   slides:
   summary: "http://ecoop14.it.uu.se/programme/ecoop-school.php#functional-os"
   video:
+tags: mirage
 ---

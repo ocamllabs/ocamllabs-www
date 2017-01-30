@@ -11,4 +11,5 @@ urls:
   pdf:
   slides:
   summary: "http://www.composeconference.org/2016/speakers/"
+tags: mirage
 ---

@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://decks.openmirage.org/ic15-seminar#/"
   video:
+tags: mirage
 ---

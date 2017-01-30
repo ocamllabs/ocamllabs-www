@@ -12,4 +12,5 @@ urls:
   slides: "http://decks.openmirage.org/strangeloop15#/"
   summary: "http://www.thestrangeloop.com/2015/non-imperative-network-programming.html"
   video: "https://www.youtube.com/watch?v=GNc1t6Q5Dls&index=56&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R"
+tags: mirage
 ---

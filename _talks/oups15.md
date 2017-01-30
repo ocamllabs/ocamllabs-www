@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://gazagnaire.org/pub/2015.01.OUPS.pdf"
   video:
+tags: irmin
 ---

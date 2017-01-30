@@ -10,4 +10,5 @@ venue:
 urls:
   pdf: "http://di.umons.ac.be/details.aspx?pub=2bfe9ef8-1739-4402-baf4-03f60e1c28c7"
   video: "https://www.youtube.com/watch?v=L4bRNN-HEIU&index=11&list=PLnqUlCo055hU46uoONmhYGUbYAK27Y6rS"
+tags: platform
 ---

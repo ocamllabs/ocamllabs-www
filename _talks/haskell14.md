@@ -12,4 +12,5 @@ urls:
   slides: "http://decks.openmirage.org/haskell2014#/"
   summary:
   video:
+tags: mirage
 ---

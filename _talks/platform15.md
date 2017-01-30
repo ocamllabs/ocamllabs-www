@@ -10,4 +10,5 @@ venue:
 urls:
   pdf: "https://github.com/ocamllabs/papers/blob/master/OCaml15-Platform/abstract.pdf"
   video: "https://www.youtube.com/watch?v=dEUMNuE4rxc&index=7&list=PLnqUlCo055hU46uoONmhYGUbYAK27Y6rS"
+tags: platform
 ---

@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "http://decks.openmirage.org/bob15#/1"
   video: "https://www.youtube.com/watch?v=DJuORegesyw"
+tags: mirage
 ---

@@ -12,4 +12,5 @@ urls:
   slides:
   summary: "http://talks.cam.ac.uk/talk/index/69531"
   video:
+tags: mlsub
 ---

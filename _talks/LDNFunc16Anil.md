@@ -12,4 +12,5 @@ urls:
   slides:
   summary:
   video: "https://www.youtube.com/watch?v=zqFDEDl5Zes&feature=youtu.be"
+tags: mirage docker
 ---

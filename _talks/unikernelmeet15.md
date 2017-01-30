@@ -11,4 +11,5 @@ urls:
   pdf:
   slides:
   video:
+tags: mirage
 ---

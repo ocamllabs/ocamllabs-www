@@ -12,4 +12,5 @@ urls:
   slides:
   summary: "http://talks.cam.ac.uk/talk/index/68997"
   video:
+tags: mirage
 ---
