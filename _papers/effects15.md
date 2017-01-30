@@ -11,4 +11,5 @@ urls:
   pdf: "http://kcsrk.info/papers/effects_ocaml15.pdf"
   slides: "http://kcsrk.info/slides/OCaml15.pdf"
   video: "https://www.youtube.com/watch?v=jZB8CZRRuEo&index=10&list=PLnqUlCo055hU46uoONmhYGUbYAK27Y6rS"
+tags: multicore effects
 ---
