@@ -9,4 +9,5 @@ venue:
   location:
 urls:
   pdf: "http://kcsrk.info/papers/schedact_jfp16.pdf"
+tags: multicore
 ---

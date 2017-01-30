@@ -10,4 +10,5 @@ venue:
 urls:
   pdf: "http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/102-ridge.pdf"
   slides: "http://www.tom-ridge.com/resources/2015-10-05_sibylfs_sosp_talk/sospv2.html#(1)"
+tags: sibylfs mirage
 ---

@@ -9,4 +9,5 @@ venue:
   location: "Swedish Exhibition and Congress Centre, Gothenburg, Sweden"
 urls:
   pdf: "https://sites.google.com/site/mlworkshoppe/modalias.pdf?attredirects=1"
+tags: ocaml
 ---

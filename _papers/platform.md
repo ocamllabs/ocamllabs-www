@@ -9,4 +9,5 @@ venue:
   location: "Nara Kasugano International Forum, Nara, Japan"
 urls:
   pdf: "http://www.ocamlpro.com/wp-content/uploads/2016/08/2016_OUD_gesbert_madhavapeddy.pdf"
+tags: platform
 ---

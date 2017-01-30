@@ -9,4 +9,5 @@ venue:
   location: "Logis Hôtel la Résidence, Le Val-d'Ajol, France"
 urls:
   pdf: "http://gazagnaire.org/pub/FGM15.pdf"
+tags: irmin
 ---

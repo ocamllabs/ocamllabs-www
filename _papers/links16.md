@@ -9,4 +9,5 @@ venue:
   location: "Nara Kasugano International Forum, Nara, Japan"
 urls:
   pdf: "http://kcsrk.info/papers/links_ocaml_ml16.pdf"
+tags: multicore effects
 ---

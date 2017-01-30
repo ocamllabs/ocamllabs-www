@@ -10,4 +10,5 @@ venue:
 urls:
   pdf: "http://kcsrk.info/papers/quelea_pldi15.pdf"
   acm: "http://dl.acm.org/citation.cfm?id=2737981"
+tags: consensus
 ---

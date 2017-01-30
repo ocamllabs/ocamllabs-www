@@ -9,4 +9,5 @@ venue:
 urls:
   pdf: "https://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf"
   acm: "http://dl.acm.org/citation.cfm?id=2723876"
+tags: consensus
 ---

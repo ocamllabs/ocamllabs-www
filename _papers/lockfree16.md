@@ -9,4 +9,5 @@ venue:
   location: "Nara Kasugano International Forum, Nara, Japan"
 urls:
   pdf: "http://kcsrk.info/papers/reagents_ocaml16.pdf"
+tags: reagents
 ---

@@ -9,4 +9,5 @@ venue:
   location: "Swedish Exhibition and Congress Centre, Gothenburg, Sweden"
 urls:
   pdf: "http://ocaml.org/meetings/ocaml/2014/ocaml2014_11.pdf"
+tags: irmin
 ---

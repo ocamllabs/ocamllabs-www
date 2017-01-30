@@ -9,4 +9,5 @@ venue:
   location: "Hyatt Regency Vancouver, Vancouver, BC, Canada"
 urls:
   pdf: "https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf"
+tags: macros staging
 ---

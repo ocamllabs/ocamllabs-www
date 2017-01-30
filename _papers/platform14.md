@@ -9,4 +9,5 @@ venue:
   location: "Swedish Exhibition and Congress Centre, Gothenburg, Sweden"
 urls:
   pdf: "https://ocaml.org/meetings/ocaml/2014/ocaml2014_7.pdf"
+tags: platform
 ---

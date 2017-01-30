@@ -9,4 +9,5 @@ venue:
   location:
 urls:
   pdf: "http://kcsrk.info/papers/quelea_ieee16.pdf"
+tags: consensus
 ---

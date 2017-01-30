@@ -9,4 +9,5 @@ venue:
   location: "Swedish Exhibition and Congress Centre, Gothenburg, Sweden"
 urls:
   pdf: "https://sites.google.com/site/mlworkshoppe/Gazagnaire-abstract.pdf?attredirects=1"
+tags: mirage macros
 ---

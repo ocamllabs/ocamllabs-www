@@ -10,4 +10,5 @@ venue:
 urls:
   pdf: "https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-madhavapeddy.pdf"
   video: "https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/madhavapeddy"
+tags: mirage jitsu
 ---
