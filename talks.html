@@ -10,7 +10,7 @@ title: Talks
     <div id="y{{currentdate}}" class="paper_year">{{ currentdate }}</div>
     {% assign date = currentdate %} 
   {% endif %}
- <div class="paper">
+ <div class="paper" id="{{talk.id|slugify}}">
    <div class="paper_title">{{talk.title}}</div>
    <div class="paper_authors">
     {% for author in talk.authors %}
