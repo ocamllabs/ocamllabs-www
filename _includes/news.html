@@ -13,7 +13,7 @@
 {% endfor %}
 {% endif %}
 {% capture paperexp %}item.tags contains '{{include.name}}'{% endcapture %}
-{% assign papers = site.papers | where_exp:"item",{{paperexp}} %}
+{% assign papers = site.papers | where_exp:"item",{{paperexp}} | reverse %}
 {% assign paperslen = papers.size %}
 {% if paperslen > 0 %}
 <div class="post_news_mini_header">Papers</div>
@@ -26,14 +26,14 @@
 {% endfor %}
 {% endif %}
 {% capture talkexp %}item.tags contains '{{include.name}}'{% endcapture %}
-{% assign talks = site.talks | where_exp:"item",{{talkexp}} %}
+{% assign talks = site.talks | where_exp:"item",{{talkexp}} | reverse %}
 {% assign talkslen = talks.size %}
 {% if talkslen > 0 %}
 <div class="post_news_mini_header">Talks</div>
 {% for talk in talks %}
 <div class="post_title_light">
   <i class="fa fa-users"></i>
-  <span class="post_date">{{ talk.date | date: "%-d %b, %Y" }}</span>:
+  <span class="post_date">{{ talk.date | date: "%-d %b, %Y" | reverse }}</span>:
   <a href="/talks/#{{talk.id|slugify}}">{{talk.title}}</a>
 </div>
 {% endfor %}
