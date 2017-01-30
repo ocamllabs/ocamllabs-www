@@ -25,6 +25,8 @@ The lineup was:
 -   Sebastian Funk - Jane Street - "OCaml: the ultimate configuration
     language"
 
+{% include thumbs.html name1="LDNFunc.jpg" name2="YaronTalk.jpg" name3="KCcow.jpg" %}
+
 Jane Street was once again a stunning venue, and we were lucky to have
 Yaron Minsky visiting from NY to share his FP wisdom. He started the
 evening off with a presentation entitled "Building Reactive Web
@@ -33,11 +35,13 @@ between and reactive web apps, neatly summarising
 [these](https://blogs.janestreet.com/incrementality-and-the-web/)
 [articles](https://blogs.janestreet.com/self-adjusting-dom/) from the
 Jane Street [Tech Blog](https://blogs.janestreet.com/).
-<img src="YaronTalk.jpg" title="fig:YaronTalk.jpg" alt="YaronTalk.jpg" width="200" />
+
 Our very own KC Sivaramakrishnan presented an engaging talk on [Multicore OCaml and programming with
 Reagents](https://speakerdeck.com/kayceesrk/reagents-lock-free-programming-for-the-masses)
 - successfully answering the age-old question of whether Multicore OCaml
 will exist in the near future (spoiler alert - it will!).
+
+{% youtube "https://www.youtube.com/watch?v=qRWTws_YPBA" %}
 
 The evening of talks was rounded off with OCaml, with Sebastian Funk
 heralding OCaml as the ultimate configuration language, with lively
