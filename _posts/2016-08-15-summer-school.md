@@ -6,7 +6,7 @@ category: Events
 tags: metaprogramming
 ---
 
-{% include thumb.html name="punting7.jpg" pos="right" %}
+{% include thumb.html name="punting7.jpg" pos="right" alt="Punting on the Cam" %}
 This summer we hosted the first International Summer School for
 Metaprogramming at [Robinson College](http://www.robinson.cam.ac.uk/),
 Cambridge. The event was a huge success and it would not have been
@@ -43,7 +43,7 @@ for our evening banquet, where we were lucky to have the entire dining
 room to ourselves, a chance for lovely walks across the islands, and a
 local caricaturist on hand to draw the guests.
 
-{% include thumbs.html name1="Punting4.jpg" name2="Punting5.jpg" name3="punting7.jpg" %}
+{% include thumbs.html name1="Punting4.jpg" alt1="Zooming through Grantchester Meadows" name2="Punting5.jpg" alt2="Some bovine roadblocks to navigate past" name3="punting7.jpg" alt3="The group makes it to the pub at the end of the river" %}
 
 The school was a fantastic opportunity to gather specialists and
 newcomers within this research field, and initial feedback has been very

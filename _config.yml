@@ -28,6 +28,7 @@ exclude:
   - script
   - Dockerfile
   - .travis.yml
+  - .tweet-cache
 
 markdown: kramdown
 kramdown:

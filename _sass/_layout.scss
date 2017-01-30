@@ -79,7 +79,6 @@ body {
     display: block;
     padding: 5px 0px 0px 0px;
 
-
     li {
       font-size:1.5rem;
       list-style:none;
@@ -252,17 +251,15 @@ p.readmore {
 }
 
 .image-thumbnail-left {
-  img {
-    float: left;
-    padding-right: 10px;
-  }
+  float: left;
+  padding-right: 10px;
+  text-align: left;
 }
 
 .image-thumbnail-right {
-  img {
-    float: right;
-    padding-left: 10px;
-  }
+  float: right;
+  padding-left: 10px;
+  text-align: right;
 }
 
 .image_block {
@@ -278,6 +275,14 @@ p.readmore {
 
 .image_block_elem {
   display: inline-block;
+  vertical-align: top;
+  width: 30%;
+}
+
+.image_caption {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #333343;
 }
 
 .role-header {

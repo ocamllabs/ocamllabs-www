@@ -5,3 +5,4 @@ vendor
 assets/resized
 .bundle
 .*.swp
+.tweet-cache

@@ -25,7 +25,7 @@ The lineup was:
 -   Sebastian Funk - Jane Street - "OCaml: the ultimate configuration
     language"
 
-{% include thumbs.html name1="LDNFunc.jpg" name2="YaronTalk.jpg" name3="KCcow.jpg" %}
+{% include thumbs.html name1="LDNFunc.jpg" alt1="The three speakers for the night" name2="YaronTalk.jpg" alt2="Yaron Minsky speaks to a packed room about Incremental" name3="KCcow.jpg" alt3="KC discovers a multicore cow" %}
 
 Jane Street was once again a stunning venue, and we were lucky to have
 Yaron Minsky visiting from NY to share his FP wisdom. He started the
