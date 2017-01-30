@@ -11,4 +11,5 @@ urls:
   pdf:
   slides: "https://www.dropbox.com/s/6kwtxhn366jhjkz/Multicore%20OCaml%20updates.pdf?dl=0"
   video:
+tags: multicore
 ---
