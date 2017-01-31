@@ -1,3 +1,4 @@
+---
 title: "Mirage 2.0: Modular Systems Programming"
 authors: ["Anil Madhavapeddy"]
 date: 26/06/2014

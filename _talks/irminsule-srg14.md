@@ -1,9 +1,9 @@
 ---
-title: "Branch Consistency, or how to Design a Version Controlled Database"
+title: "Branch Consistency, or How to Design a Version Controlled Database"
 authors: ["Thomas Gazagnaire"]
 date: 22/05/2014
 venue:
-name: "Systems Research Group Seminar"
+name: "the Systems Research Group Seminar"
 short-name: "SRG"
 url: "http://talks.cam.ac.uk/talk/index/49903"
 location: "Computer Laboratory, University of Cambridge, UK"

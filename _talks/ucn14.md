@@ -4,7 +4,7 @@ authors: ["Richard Mortier", "Anil Madhavapeddy"]
 date: 14/03/2014
 venue:
 name: "User-Centric Networking"
-short-name: "UCN
+short-name: "UCN"
 url: "https://usercentricnetworking.eu/"
 location: "University of Nottingham, Nottingham, UK"
 urls:
