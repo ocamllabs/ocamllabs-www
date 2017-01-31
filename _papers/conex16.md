@@ -9,4 +9,5 @@ venue:
   location: "Nara Kasugano International Forum, Nara, Japan"
 urls:
   pdf: "https://github.com/hannesm/conex-paper/raw/master/paper.pdf"
+tags: opam nqsb
 ---
