@@ -1,5 +1,5 @@
 ---
-title: "The OCaml Platform v1.0"
+title: "The OCaml Platform V1.0"
 authors: ["Anil Madhavapeddy", "Amir Chaudhry", "Jeremie Diminio", "Thomas Gazagnaire", "Louis Gesbert", "Thomas Leonard", "David Sheets", "Mark Shinwell", "Leo White", "Jeremy Yallop"]
 date: 05/09/2014
 venue:

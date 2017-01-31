@@ -11,5 +11,5 @@ urls:
   pdf:
   slides: "http://decks.openmirage.org/xensummit13#/"
   summary:
-  tags: mirage
+tags: mirage
 ---

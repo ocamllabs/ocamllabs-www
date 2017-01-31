@@ -1,5 +1,5 @@
 ---
-title: "OCamlot : OCaml Online Testing"
+title: "OCamlot: OCaml Online Testing"
 authors: ["David Sheets", "Anil Madhavapeddy", "Amir Chaudhry", "Thomas Gazagnaire"]
 date: 24/09/2013
 venue:
