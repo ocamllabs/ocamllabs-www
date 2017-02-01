@@ -6,5 +6,5 @@ homepage: "https://phfilip.com/"
 github: "philipdexter"
 twitter:
 role: "visitors"
-photo:
+photo: "philipdexter"
 ---

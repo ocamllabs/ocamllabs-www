@@ -6,5 +6,5 @@ homepage: "http://le.cha.moe/"
 github: "Engil"
 twitter: "lamagicien"
 role: "visitors"
-photo:
+photo: "engil"
 ---

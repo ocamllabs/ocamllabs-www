@@ -6,5 +6,5 @@ homepage:
 github: "let-def"
 twitter:
 role: "visitors"
-photo:
+photo: "let-def"
 ---
