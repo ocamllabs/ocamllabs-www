@@ -4,7 +4,7 @@ fullname: "Philip Dexter"
 bio: "Philip likes to Jam"
 homepage: "https://phfilip.com/"
 github: "philipdexter"
-twitter: 
+twitter:
 role: "visitors"
 photo:
 ---

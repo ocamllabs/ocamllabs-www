@@ -6,5 +6,5 @@ homepage: "http://din.osau.re/"
 github: "dinosaure"
 twitter: "dinoosaure"
 role: "visitors"
-photo:
+photo: "dinosaure"
 ---
