@@ -19,6 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   OCaml Labs is an initiative within the Cambridge Computer Laboratory started by Anil Madhavapeddy in 2011 to promote research, growth and collaboration within the wider OCaml community.
 baseurl: ""
 url: "https://ocamllabs.github.io/"
+logo: "origami-camel.png"
 
 # Build settings
 exclude:

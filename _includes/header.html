@@ -2,7 +2,9 @@
 
   <h2 class="logo">
    <a href="{{ site.baseurl }}/">{{ site.title }}</a><br />
-   <img width="100px" src="/assets/img/camel.png" />
+   {% if site.config.logo %}
+   <img width="100px" src="/assets/img/{{ site.config.logo }}" />
+   {% endif %}
   </h2>
 
   <div class="nav">
