@@ -6,5 +6,5 @@ homepage:
 github: "ilsordo"
 twitter:
 role: "visitors"
-photo:
+photo: "camel"
 ---

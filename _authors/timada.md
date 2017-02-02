@@ -6,5 +6,5 @@ homepage:
 github: "TImada"
 twitter:
 role: "visitors"
-photo:
+photo: "camel"
 ---

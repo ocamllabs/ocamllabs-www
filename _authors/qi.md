@@ -6,5 +6,5 @@ homepage:
 github: "sevenEng"
 twitter:
 role: "visitors"
-photo:
+photo: "camel"
 ---

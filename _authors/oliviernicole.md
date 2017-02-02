@@ -6,5 +6,5 @@ homepage:
 github: "OlivierNicole"
 twitter:
 role: "visitors"
-photo:
+photo: "camel"
 ---

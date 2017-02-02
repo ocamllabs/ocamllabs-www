@@ -6,5 +6,5 @@ homepage: "http://erratique.ch/contact.en"
 github: "dbuenzli"
 twitter:
 role: "visitors"
-photo:
+photo: "camel"
 ---
