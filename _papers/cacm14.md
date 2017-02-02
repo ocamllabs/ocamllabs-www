@@ -1,6 +1,6 @@
 ---
 title: "Unikernels: The Rise of the Virtual Library Operating System"
-authors: ["Anil Madhavapeddy", "David J. Scott"]
+authors: ["Anil Madhavapeddy", "David Scott"]
 date: 01/01/2014
 venue:
   name: "the Commuications of the ACM, Vol. 57, No. 1"
