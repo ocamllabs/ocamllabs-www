@@ -5,6 +5,6 @@ bio: "Maxime likes to Jam"
 homepage:
 github: "ilsordo"
 twitter:
-role: "visitors"
-photo: "camel"
+role: "interns"
+photo: "camels"
 ---

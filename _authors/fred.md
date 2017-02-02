@@ -5,6 +5,6 @@ bio: "Fred likes to Jam"
 homepage:
 github: "let-def"
 twitter:
-role: "visitors"
+role: "collaborators"
 photo: "let-def"
 ---

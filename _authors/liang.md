@@ -5,6 +5,6 @@ bio: "Liang is a research associate in the [Computer Laboratory](http://www.cl.c
 homepage: "http://www.cl.cam.ac.uk/~lw525/"
 github: "ryanrhymes"
 twitter: "ryan_liang"
-role: "visitors"
+role: "post docs"
 photo: "ryanrhymes"
 ---

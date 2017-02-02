@@ -5,6 +5,6 @@ bio: "Philip likes to Jam"
 homepage: "https://phfilip.com/"
 github: "philipdexter"
 twitter:
-role: "visitors"
+role: "interns"
 photo: "philipdexter"
 ---

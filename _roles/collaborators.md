@@ -1,6 +1,6 @@
 ---
 uid: "collaborators"
 name: "Collaborators"
-descr: "External academic and industrial collaborators"
-order: 4
+descr: "External academic, industrial and independent collaborators"
+order: 5
 ---

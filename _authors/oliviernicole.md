@@ -5,6 +5,6 @@ bio: "Olivier likes to Jam"
 homepage:
 github: "OlivierNicole"
 twitter: "oliviernicole01"
-role: "visitors"
+role: "interns"
 photo: "oliviernicole"
 ---

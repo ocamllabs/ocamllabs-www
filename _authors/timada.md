@@ -5,6 +5,6 @@ bio: "Taka is a researcher at Hitachi Ltd. based in Japan. He has spent five yea
 homepage:
 github: "TImada"
 twitter:
-role: "visitors"
-photo: "camel"
+role: "collaborators"
+photo: "camels"
 ---

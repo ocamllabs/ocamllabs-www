@@ -5,6 +5,6 @@ bio: "Daniel has a Master of Science in Computer Science from the [École Polyte
 homepage: "http://erratique.ch/contact.en"
 github: "dbuenzli"
 twitter:
-role: "visitors"
-photo: "camel"
+role: "collaborators"
+photo: "camels"
 ---

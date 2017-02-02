@@ -5,6 +5,6 @@ bio: "David is a PhD student at the [Computer Lab, University of Cambridge](http
 homepage: "https://www.cl.cam.ac.uk/~dk505/"
 github: "pqwy"
 twitter:
-role: "visitors"
+role: "grad students"
 photo: "pqwy"
 ---
