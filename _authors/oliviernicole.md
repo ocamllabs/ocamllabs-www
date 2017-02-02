@@ -4,7 +4,7 @@ fullname: "Olivier Nicole"
 bio: "Olivier likes to Jam"
 homepage:
 github: "OlivierNicole"
-twitter:
+twitter: "oliviernicole01"
 role: "visitors"
-photo: "camel"
+photo: "oliviernicole"
 ---
