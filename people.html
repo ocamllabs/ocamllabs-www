@@ -6,7 +6,8 @@ title: People
 
 {% include intro-people.html %}
 
-{% for role in site.roles %}
+{% assign roles = site.roles | sort: 'order' %}
+{% for role in roles %}
 <div class="role-group">
   <div class="role-header">{{role.name}}</div>
   <p>{{role.descr}}</p>
