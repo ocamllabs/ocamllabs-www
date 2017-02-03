@@ -2,7 +2,7 @@
 title: Multicore OCaml now compiling on MacOSX
 layout: post
 author: kayceesrkc
-categories: Projects
+category: Projects
 tags: multicore
 ---
 

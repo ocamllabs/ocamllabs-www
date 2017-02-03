@@ -2,7 +2,7 @@
 title: Effective parallelism with Reagents @ London Facebook Faculty Summit
 layout: page
 author: kc
-categories: Events
+category: Events
 tags: multicore
 ---
 

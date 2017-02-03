@@ -2,7 +2,7 @@
 title: Lock-free programming for the masses
 layout: page
 author: kc
-categories: Projects
+category: Projects
 tags: multicore
 ---
 
