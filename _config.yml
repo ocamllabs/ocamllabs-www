@@ -41,6 +41,7 @@ collections:
   papers:
   talks:
   events:
+  furore:
   doc:
    output: true
   releases:
