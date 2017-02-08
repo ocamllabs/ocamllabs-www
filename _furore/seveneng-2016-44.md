@@ -1,6 +1,7 @@
 ---
 uid: seveneng
 date: 2016-10-24
+enddate: 2016-10-30
 week: 44
 generator: furore
 ---

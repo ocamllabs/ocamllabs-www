@@ -1,6 +1,7 @@
 ---
 uid: oliviernicole
 date: 2017-01-16
+enddate: 2017-01-22
 week: 4
 generator: furore
 ---
@@ -15,6 +16,7 @@ generator: furore
   > with locations
   > And step three would be to start building the AST again
   > The final version would, instead of producing:
+  >
   > ```
   > let splice1 = ... in
   > let splice2 = ... in
@@ -22,7 +24,9 @@ generator: furore
   > let lambda = ... Field(1, [splice1]) ... Field(1, [splice2]) ... in
   >   Makeblock [ast; lambda]
   > ```
+  >
   > produce something like:
+  >
   > ```
   > let splice1 = ref null in
   > let splice2 = ref null in
@@ -33,6 +37,7 @@ generator: furore
   > let ast = ... !splice1 ... !splice2 ... in
   >   Makeblock [lambda; ast]
   > ```
+  >
   > This would give us ASTs without any renaming of variables
   > With a bit more work we could probably get renaming as well
 

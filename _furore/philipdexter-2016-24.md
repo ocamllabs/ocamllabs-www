@@ -1,6 +1,7 @@
 ---
 uid: philipdexter
 date: 2016-06-06
+enddate: 2016-06-12
 week: 24
 generator: furore
 ---

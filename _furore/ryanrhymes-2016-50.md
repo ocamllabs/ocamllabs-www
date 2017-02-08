@@ -1,6 +1,7 @@
 ---
 uid: ryanrhymes
 date: 2016-12-05
+enddate: 2016-12-11
 week: 50
 generator: furore
 ---

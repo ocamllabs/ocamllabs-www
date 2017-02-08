@@ -1,6 +1,7 @@
 ---
 uid: kayceesrk
 date: 2017-01-02
+enddate: 2017-01-08
 week: 2
 generator: furore
 ---

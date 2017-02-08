@@ -1,6 +1,7 @@
 ---
 uid: dinosaure
 date: 2016-08-08
+enddate: 2016-08-14
 week: 33
 generator: furore
 ---

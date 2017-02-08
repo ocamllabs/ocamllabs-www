@@ -1,6 +1,7 @@
 ---
 uid: gemmag
 date: 2017-01-23
+enddate: 2017-01-29
 week: 5
 generator: furore
 ---

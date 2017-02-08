@@ -1,6 +1,7 @@
 ---
 uid: oliviernicole
 date: 2016-05-02
+enddate: 2016-05-08
 week: 19
 generator: furore
 ---
