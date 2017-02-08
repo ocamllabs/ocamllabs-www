@@ -247,7 +247,6 @@ p.readmore {
 }
 
 .furore_entry {
-  border-bottom: 1px solid lightgray;
   padding-top: 5px;
   line-height: 1.6rem;
   h2 { font-size: 1.8rem; }
@@ -272,12 +271,23 @@ p.readmore {
 }
 
 .furore_date {
+  margin-top: 5px;
   font-size: 1.8rem;
+  font-weight: bold;
+  text-transform:lowercase;
+  font-variant:small-caps;
+  background: #eeeeee;
+  border-radius: 8px;
+  padding: 3px;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: inline;
 }
 
 .furore_week_links {
   background: #eeeeee;
   padding: 5px;
+  margin-bottom: 20px;
 }
 
 .furore_year_link {
