@@ -33,3 +33,5 @@ The third MirageOS hack retreat returns to [Rihad Priscilla](http://queenoftheme
 
 * **7th February 2017: Compiler Hacking: Cambridge, UK**  
 Our first [Compiler Hacking](https://github.com/ocamllabs/compiler-hacking) event of 2017 will be held at Pembroke College on 7th February!
+
+{% include news.html name="community" %}
