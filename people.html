@@ -4,7 +4,10 @@ permalink: /people/
 title: People
 ---
 
-{% include intro-people.html %}
+<div class="intro">
+  {% capture my_include %}{% include intro-people.md %}{% endcapture %}
+  {{ my_include | markdownify }}
+</div>
 
 {% assign roles = site.roles | sort: 'order' %}
 {% for role in roles %}
