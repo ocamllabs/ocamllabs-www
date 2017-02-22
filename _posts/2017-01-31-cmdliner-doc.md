@@ -14,4 +14,4 @@ The next release of cmdliner aims to improve the current cmdliner manual doc lan
 
 **Take note:** The fix may break the rendering of some manpages:
 
-If git grep '\$([ib],[^)]*\$([mt]name)[^)]*)' exits with 0 in your project you are affected. Simply replace these marked up `$(b,$(tname))` and `$(b,$(mname))` by the variables `$(tname)` and `$(mname)` themselves.
+If `git grep '\$([ib],[^)]*\$([mt]name)[^)]*)'` exits with 0 in your project you are affected. Simply replace these marked up `$(b,$(tname))` and `$(b,$(mname))` by the variables `$(tname)` and `$(mname)` themselves.
