@@ -1,0 +1,17 @@
+---
+title: Feedback on Irmin 1.0 API
+layout: post
+author: samoht
+category: RFC
+tags: irmin libraries
+---
+
+I'm creating a new API for the upcoming release of Irmin 1.0 and feedback would be welcome, especially from existing users.
+
+The main changes in the new API are:
+
+* no more mirage-tc to define new contents, but simpler type-based combinators based on [depyt](https://github.com/samoht/depyt) (note: I will probably just copy [depyt.ml](http://depyt.ml/) inside the project so the project could be tailored for mergeable datastructures in the future)
+* subtrees now have first-class support in the API. No more mutable views, use immutable subtrees (with full caching and lazy writes), strongly inspired by [#357](https://github.com/mirage/irmin/pull/357) and the [datakit tree API](https://github.com/docker/datakit/blob/master/src/datakit/ivfs_tree.mli).
+* Discussion [here](https://github.com/mirage/irmin/pull/397)
+
+Check the [diff](https://github.com/mirage/irmin/commit/381979740d2b33a3362ece5be201f40b5ac61ac3#diff-4f173467bd0341b9aa52278abf3becb2) for other fixes.
