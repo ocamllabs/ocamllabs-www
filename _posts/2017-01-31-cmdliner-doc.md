@@ -8,7 +8,7 @@ tags: cmdliner documentation platform libraries
 
 The next release of cmdliner aims to improve the current cmdliner manual doc language. Your feedback on the changes and new language definition is welcome:
 
-* [cha ges](https://github.com/dbuenzli/cmdliner/blob/08be600c4b7f00c08339f078a88b30234d84fc44/CHANGES.md#doc-language-sanitization)
+* [changes](https://github.com/dbuenzli/cmdliner/blob/08be600c4b7f00c08339f078a88b30234d84fc44/CHANGES.md#doc-language-sanitization)
 * [source](https://github.com/dbuenzli/cmdliner/blob/master/src/cmdliner.mli#L755-L768)
 * discussion on the issue [here](https://github.com/dbuenzli/cmdliner/issues/68)
 
