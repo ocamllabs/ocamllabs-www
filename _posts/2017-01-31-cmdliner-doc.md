@@ -1,7 +1,7 @@
 ---
 title: Feedback on cmdliner doc language changes
 layout: post
-author: dbuenzli
+author: gemmag
 category: RFC
 tags: cmdliner documentation platform libraries
 ---
