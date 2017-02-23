@@ -6,6 +6,7 @@ ssh-add deploy_id_rsa
 git config --global user.email "bactrian@recoil.org"
 git config --global user.name "CI Bot"
 cd _site
+echo ocamllabs.io > CNAME
 git init
 git add *
 git commit -m sync -a
