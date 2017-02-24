@@ -6,3 +6,4 @@ assets/resized
 .bundle
 .*.swp
 .tweet-cache
+Gemfile.lock
