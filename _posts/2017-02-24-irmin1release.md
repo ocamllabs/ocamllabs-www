@@ -2,7 +2,7 @@
 title: Irmin 1.0 Released!
 layout: post
 author: gemmag
-category: Release
+category: Releases
 tags: irmin mirage opam libraries
 ---
 
