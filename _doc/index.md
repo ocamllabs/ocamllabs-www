@@ -13,6 +13,7 @@ Major efforts in this space include:
 * [Multicore OCaml](/doc/multicore.html)
 * [Algebraic Effects](/doc/effects.html)
 * [Reagents]({% link _doc/reagents.md %})
+* [Macros]({% link _doc/macros.md %})
 
 ## OCaml Platform
 
