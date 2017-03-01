@@ -3,7 +3,7 @@ title: Irmin 1.0 Released!
 layout: post
 author: gemmag
 category: Releases
-tags: irmin mirage opam libraries
+tags: irmin mirage opam libraries ci
 ---
 
 [Irmin 1.0](https://github.com/mirage/irmin) is now released and available on [opam](https://opam.ocaml.org/packages/irmin/irmin.1.0.0/). You can see a full set of [changes](https://github.com/mirage/irmin/releases/tag/1.0.0), online [documentation](https://mirage.github.io/irmin/Irmin.html) and some [examples](https://github.com/mirage/irmin/tree/master/examples) to help get you started.
