@@ -10,19 +10,22 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 
 ### Build, Package and Release
 
-* Merlin IDE integration
+* [Merlin IDE integration](/doc/merlin.html)
 * Opam package management
-* Odoc automatic documentation generation
+* [OCaml Documentation]({% link _doc/documentation.md %})
 * Packaging libraries: Topkg, Odig
 * Docker automatic builds
 
 ### Test
 
-* Continuous integration testing
+* [Continuous Integration and Testing]({% link _doc/testing.md %})
 
 ### Maintenance and Improvement
 
 * Opam repository signing with Conex
 
+### Popular libraries
+
+* [Ctypes]({% link _doc/ctypes.md %})
 
 {% include news.html name="platform" %}

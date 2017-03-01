@@ -19,10 +19,8 @@ Major efforts in this space include:
 
 The Platform combines the core OCaml compiler with a coherent set of libraries, tools and documentation. We look to large-scale users of OCaml to guide the direction of development in this area, including [Jane Street](https://blogs.janestreet.com/category/ocaml/), [MirageOS](https://mirage.io/), [Docker](https://blog.docker.com/2016/06/docker-mac-windows-public-beta/) and [Facebook](https://github.com/facebook/reason). Recent developments have focussed on the developer experience; tooling improvements around packaging, build and test infrastructure; and support for different operating systems and infrastructures.
 
-* [The OCaml Platform](/doc/platform.html)
-* [Merlin IDE integration](/doc/merlin.html)
-* [OCaml Documentation]({% link _doc/documentation.md %})
-* [Continuous Integration and Testing]({% link _doc/testing.md %})
+* [The OCaml Platform](/doc/platform.html): All details of Platform features
+
 
 ## Ecosystem
 
