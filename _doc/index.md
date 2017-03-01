@@ -21,6 +21,8 @@ The Platform combines the core OCaml compiler with a coherent set of libraries, 
 
 * [The OCaml Platform](/doc/platform.html)
 * [Merlin IDE integration](/doc/merlin.html)
+* [OCaml Documentation]({% link _doc/documentation.md %})
+* [Continuous Integration and Testing]({% link _doc/testing.md %})
 
 ## Ecosystem
 
