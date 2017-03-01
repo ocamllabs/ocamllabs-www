@@ -10,7 +10,7 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 
 ### Build, Package and Release
 
-* [Merlin IDE integration](/doc/merlin.html)
+* [Merlin IDE integration]({% link _doc/merlin.md %})
 * [Opam package management]({% link _doc/opam.md %})
 * [OCaml Documentation]({% link _doc/documentation.md %})
 * Packaging libraries: Topkg, Odig
