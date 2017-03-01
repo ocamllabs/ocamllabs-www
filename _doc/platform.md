@@ -22,7 +22,7 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 
 ### Maintenance and Improvement
 
-* Opam repository signing with Conex
+* [Digital signing with Conex]({% link _doc/conex.md %})
 
 ### Popular libraries
 
