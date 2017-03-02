@@ -15,15 +15,11 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 * [OCaml Documentation]({% link _doc/documentation.md %})
 * [Packaging workflow]({% link _doc/packaging.md %})
 * [Digital signing with Conex]({% link _doc/conex.md %})
-* Docker automatic builds
+* [Bulk builds]({% link _doc/bulk-builds.md %})
 
 ### Test
 
 * [Continuous Integration and Testing]({% link _doc/testing.md %})
-
-### Maintenance and Improvement
-
-
 
 ### Popular libraries
 

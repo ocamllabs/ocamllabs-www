@@ -8,8 +8,8 @@ Packaging workflow refers to the processes involved with packaging and releasing
 
 * `topkg`
 
-[Topkg](http://erratique.ch/software/topkg) is a packager for distributing OCaml software published by [Daniel Bünzli](http://erratique.ch/contact.en). It provides an API to:
-- describe the files a package installs in a given configuration
+[Topkg](http://erratique.ch/software/topkg) is a packager for distributing OCaml software. It provides an API to:  
+- describe the files a package installs in a given configuration  
 - specify information about the package's distribution creation and publication procedures.
 
 It is a library that is added as a build dependency to your package, and comes with an optional topkg-care tool which helps you manage your package lifecycle.
