@@ -10,8 +10,8 @@ This refers to the core compiler toolchain, the [OCaml language](https://caml.in
 
 Major efforts in this space include:
 
-* [Multicore OCaml](/doc/multicore.html)
-* [Algebraic Effects](/doc/effects.html)
+* [Multicore OCaml]({% link _doc/multicore.md %})
+* [Algebraic Effects]({% link _doc/effects.md %})
 * [Reagents]({% link _doc/reagents.md %})
 * [Macros]({% link _doc/macros.md %})
 
@@ -19,7 +19,7 @@ Major efforts in this space include:
 
 The Platform combines the core OCaml compiler with a coherent set of libraries, tools and documentation. We look to large-scale users of OCaml to guide the direction of development in this area, including [Jane Street](https://blogs.janestreet.com/category/ocaml/), [MirageOS](https://mirage.io/), [Docker](https://blog.docker.com/2016/06/docker-mac-windows-public-beta/) and [Facebook](https://github.com/facebook/reason). Recent developments have focussed on the developer experience; tooling improvements around packaging, build and test infrastructure; and support for different operating systems and infrastructures.
 
-* [The OCaml Platform](/doc/platform.html): All details of Platform features
+* [The OCaml Platform]({% link _doc/platform.md %}): All details of Platform features
 
 
 ## Ecosystem
@@ -30,16 +30,16 @@ The Platform combines the core OCaml compiler with a coherent set of libraries, 
 
 There is a vibrant and growing ecosystem around constructing libraries for MirageOS that are built in pure OCaml with minimal external dependencies - this unlocks that functionality in all of the target architectures that it supports. MirageOS depends on a number of components that are developed and maintained by OCaml Labs.
 
-* [MirageOS Core](/doc/mirage.html)
+* MirageOS Core
 
 ## DataBox
 
 The [DataBox](http://www.databoxproject.uk) is a means of enhancing accountability and giving individuals control over the use of their personal data.
 The Databox envisions an open-source personal networked device, augmented by cloud-hosted services, that collates, curates, and mediates access to an individual’s personal data by verified and audited third party applications and services.
 
-* [Not Quite So Broken libraries](/doc/nqsb.html)
-* [DataBox](/doc/databox.html)
+* [Not Quite So Broken libraries]({% link _doc/nqsb.md %})
+* [DataBox]({% link _doc/databox.md %})
 
 ### Consensus Systems
 
-* [Consensus Systems](/doc/consensus.html)
+* [Consensus Systems]({% link _doc/consensus.md %})

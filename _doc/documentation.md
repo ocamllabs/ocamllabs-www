@@ -15,4 +15,8 @@ The system seeks to:
 - support cross-linking between packages
 - reduce external dependencies and default integration with other tools
 
+## `odig`
+
+[`odig`](http://erratique.ch/software/odig) is a library and command-line tool to mine installed OCaml packages. It supports package distribution documentation and metadata lookups, and generates cross-referenced API documentation with `ocamldoc` and/or `odoc`.
+
 {% include news.html name="documentation" %}

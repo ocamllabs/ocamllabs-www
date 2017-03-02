@@ -13,7 +13,8 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 * [Merlin IDE integration]({% link _doc/merlin.md %})
 * [Opam package management]({% link _doc/opam.md %})
 * [OCaml Documentation]({% link _doc/documentation.md %})
-* Packaging libraries: Topkg, Odig
+* [Packaging workflow]({% link _doc/packaging.md %})
+* [Digital signing with Conex]({% link _doc/conex.md %})
 * Docker automatic builds
 
 ### Test
@@ -22,7 +23,7 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 
 ### Maintenance and Improvement
 
-* [Digital signing with Conex]({% link _doc/conex.md %})
+
 
 ### Popular libraries
 
