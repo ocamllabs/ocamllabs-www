@@ -6,5 +6,6 @@ layout: page
 
 TODO Quelea and FPaxos.
 
-{% include news.html name="consensus" %}
+----
 
+{% include news.html name="consensus" %}

@@ -8,4 +8,6 @@ The purpose of Conex is to enable a secure distribution of OCaml packages by est
 
 Conex has been designed with opam in mind, but it is an independent system which can be used to update any data in an authenticated manner.
 
+----
+
 {% include news.html name="conex" %}

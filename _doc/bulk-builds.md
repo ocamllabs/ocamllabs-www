@@ -8,4 +8,6 @@ As the Opam package database grows beyond 3000 packages, we need automated ways 
 
 **NOTE** This a purely Linux-only solution currently. While it lets us test various distributions such as CentOS, Debian, Ubuntu and RHEL, we still need other solutions for MacOSX, Free/Net/OpenBSD and Windows. The situation will hopefully ease as the upstream Docker support for non-Linux platforms matures.
 
+----
+
 {% include news.html name="bulk" %}

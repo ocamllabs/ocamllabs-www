@@ -13,4 +13,6 @@ layout: page
 
 Merlin is editor-independent, but support exists for Vim, Emacs and Atom.
 
+----
+
 {% include news.html name="merlin" %}

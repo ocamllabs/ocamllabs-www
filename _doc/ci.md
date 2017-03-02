@@ -4,7 +4,7 @@ title: Continuous Integration for OCaml
 layout: page
 ---
 
-*This is a work in progress document, contact anil@recoil.org* 
+*This is a work in progress document, contact anil@recoil.org*
 
 The OCaml project has a lot of physical infrastructure to host services and run automated continuous integration tests.  OCaml Labs maintains a bunch of these, mainly centred around the [DataKit CI](https://github.com/docker/datakit) continuous integration system released by Docker.  This page describes how the CI works, where it is deployed, and what the roadmap for next steps are.
 
@@ -41,5 +41,6 @@ TODO
 
 TODO
 
-{% include news.html name="ci" %}
+----
 
+{% include news.html name="ci" %}

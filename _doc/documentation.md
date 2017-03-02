@@ -11,12 +11,14 @@ The system is currently in beta, and you can view the [output for the MirageOS c
 The system seeks to:
 
 - cover all of OCaml's language features
-- provide accurage name resolution and linking
+- provide accurate name resolution and linking
 - support cross-linking between packages
 - reduce external dependencies and default integration with other tools
 
-## `odig`
+## Odig
 
-[`odig`](http://erratique.ch/software/odig) is a library and command-line tool to mine installed OCaml packages. It supports package distribution documentation and metadata lookups, and generates cross-referenced API documentation with `ocamldoc` and/or `odoc`.
+[Odig](http://erratique.ch/software/odig) is a library and command-line tool to mine installed OCaml packages. It supports package distribution documentation and metadata lookups, and generates cross-referenced API documentation with ocamldoc and/or odoc.
+
+----
 
 {% include news.html name="documentation" %}

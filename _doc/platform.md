@@ -25,4 +25,6 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 
 * [Ctypes]({% link _doc/ctypes.md %})
 
+----
+
 {% include news.html name="platform" %}

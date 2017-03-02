@@ -10,5 +10,6 @@ Not-quite-so-broken is the theme of our re-engineered approach to security proto
 
 You can read more in the papers below, or at the main [nqsb.io](https://nqsb.io) homepage.
 
-{% include news.html name="nqsb" %}
+----
 
+{% include news.html name="nqsb" %}
