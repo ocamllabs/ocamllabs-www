@@ -3,6 +3,7 @@ title: MirageOS Hackathon - Trip Reports
 layout: page
 category: Events
 author: gemmag
+tags: mirage databox platform
 ---
 
 The first [MirageOS](/wiki/MirageOS "wikilink") hackathon took place this
