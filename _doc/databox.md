@@ -9,7 +9,7 @@ The Databox envisions an open-source personal networked device, augmented by clo
 
 The Databox will form the heart of an individual’s personal data processing ecosystem, providing a platform for managing secure access to data and enabling authorised third parties to provide the owner with authenticated services, including services that may be accessed while roaming outside the home environment.
 
-The Databox project will run for 3 years and started in October 2016. Please see the homepage at [databoxproject.uk](http://www.databoxproject.uk/about/).
+The project will run for 3 years and started in October 2016. Please see the homepage at [databoxproject.uk](http://www.databoxproject.uk/about/).
 
 {% include news.html name="databox" %}
 
