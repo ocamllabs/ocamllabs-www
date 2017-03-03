@@ -20,7 +20,7 @@ title: Home
         {% assign posttype = post.id | split:"/" %}
         {% assign posticon = posttype[1] | capitalize %}
         {% assign i = site.data.icons | where:"name",{{posticon}} | first %}
-        <div class="post_title_light">
+        <div class="index_title_light">
           <i class="fa fa-{{i.icon}}"></i>
           <a href="/{{posttype[1]}}/#{{post.id | slugify }}">{{ post.title}}</a>
         </div>
