@@ -1,7 +1,7 @@
 ---
 title: Formalizing the OCaml multicore memory model
 layout: post
-author: sdolan
+author: stedolan
 category: RFC
 tags: multicore
 ---
