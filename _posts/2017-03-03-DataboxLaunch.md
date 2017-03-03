@@ -2,7 +2,7 @@
 title: "Databox Launch Event: 24th March, Cambridge"
 layout: post
 author: gemmag
-category: General
+category: Events
 tags: databox mirage personal data networking
 ---
 
