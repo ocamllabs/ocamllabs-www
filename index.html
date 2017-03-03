@@ -14,7 +14,7 @@ title: Home
   <div class="post-list four columns">
   
     {% assign posts = site.talks | sort: 'date' | reverse %}
-    {% for post in posts limit:15 %}
+    {% for post in posts limit:20 %}
     <article class="post_card post">
       <header class="post_header">
         {% assign posttype = post.id | split:"/" %}
