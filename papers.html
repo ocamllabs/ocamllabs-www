@@ -18,7 +18,7 @@ title: Papers
     {% unless forloop.last %}, {% endunless %}
     {% endfor %}
    </div>
-   <div class="paper_venue">in {{paper.venue.name}} (<a href="{{paper.venue.url}}">{{paper.venue.short-name}})</a></div>
+   {% if paper.venue.url %}<div class="paper_venue">in {{paper.venue.name}} (<a href="{{paper.venue.url}}">{{paper.venue.short-name}})</a></div>{% endif %}
    <div class="paper_urls">
     {% for url in paper.urls %}
      <span class="paper_url"><a href="{{url[1]}}">[{{url[0]}}]</a></span>
