@@ -213,7 +213,7 @@ input#menu-toggle {
 }
 
 .post_title_light {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
 }
 
 .post_excerpt {
@@ -355,13 +355,14 @@ p.readmore {
   margin-bottom: 10px;
 }
 
-.article-content a {
-  border-bottom:1px dotted red;
+.wrapper a {
+  border-bottom:1px dotted #ffc266;
   text-decoration:none;
 }
-.article-content a:hover {
-  color:blue;
-  border-bottom:1px dotted blue;
+
+.article-content a {
+  border-bottom:1px dotted #ffc266;
+  text-decoration:none;
 }
 
 .article-footer {
