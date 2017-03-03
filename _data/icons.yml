@@ -15,3 +15,9 @@
 
 - name: RFC
   icon: commenting
+
+- name: Talks
+  icon: users
+
+- name: Papers
+  icon: book

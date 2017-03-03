@@ -12,11 +12,18 @@ title: Home
 <hr />
 <div class="home">
   <div class="post-list four columns">
-    {% assign releases = site.releases | sort: 'date' | reverse %}
-    {% for post in releases limit:10 %}
+  
+    {% assign posts = site.talks | sort: 'date' | reverse %}
+    {% for post in posts limit:15 %}
     <article class="post_card post">
       <header class="post_header">
-        <div class="post_title_light"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></div>
+        {% assign posttype = post.id | split:"/" %}
+        {% assign posticon = posttype[1] | capitalize %}
+        {% assign i = site.data.icons | where:"name",{{posticon}} | first %}
+        <div class="post_title_light">
+          <i class="fa fa-{{i.icon}}"></i>
+          <a href="/{{posttype[1]}}/#{{post.id | slugify }}">{{ post.title}}</a>
+        </div>
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
       </header>
     </article>
@@ -24,7 +31,7 @@ title: Home
   </div>
   <div class="post-list eight columns">
 
-    {% for post in site.posts limit:5%}
+    {% for post in site.posts limit:10 %}
     <article class="post_card post">
       <header class="post_header">
         <div class="post_title">
