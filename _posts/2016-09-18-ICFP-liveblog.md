@@ -1,8 +1,9 @@
 ---
 title: ICFP 2016 liveblog available
-layout: page
+layout: post
 author: avsm
 category: Events
+tags: mirage canopy irmin conex mrmime platform opam icfp
 ---
 
 The annual [ICFP](http://conf.researchr.org/home/icfp-2016) conference

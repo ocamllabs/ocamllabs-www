@@ -3,6 +3,7 @@ title: OCaml Hack Event - Activity Summaries
 layout: post
 author: gemmag
 category: Events
+tags: compiler outreach
 ---
 
 OCaml Labs held the [fifteenth compiler hack

@@ -1,9 +1,9 @@
 ---
 title: Lock-free programming for the masses
-layout: page
+layout: post
 author: kc
 category: Projects
-tags: multicore
+tags: multicore reagents
 ---
 
 Progress with multicore is moving forward

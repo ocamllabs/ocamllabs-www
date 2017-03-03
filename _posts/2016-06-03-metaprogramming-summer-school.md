@@ -1,6 +1,6 @@
 ---
 title: International Summer School on Metaprogramming - Cambridge, UK, 8-12 August
-layout: page
+layout: post
 author: gemmag
 category: Teaching
 tags: metaprogramming
@@ -42,8 +42,6 @@ Metaprogramming comes in various forms, including:
     specific languages, and many more. Precompiling the staged code can
     have dramatic performance improvements, in some cases an order of
     magnitude or more.
-
-<!-- -->
 
 -   **Generic programming**: treating types as program values. Generic
     programming can improve code flexibility, allowing to give a single
