@@ -1,5 +1,5 @@
 ---
-authors: [kc, sdolan]
+authors: [kc, stedolan]
 title: "Multicore OCaml"
 layout: page
 ---
