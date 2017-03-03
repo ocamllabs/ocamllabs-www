@@ -1,9 +1,9 @@
 ---
 title: ICFP Roundup - Talk Summaries and OCaml Workshop
-layout: page
+layout: post
 author: gemmag
 category: Events
-tags: icfp
+tags: icfp mirage canopy irmin conex mrmime platform opam icfp
 ---
 
 ICFP 2016 is over!

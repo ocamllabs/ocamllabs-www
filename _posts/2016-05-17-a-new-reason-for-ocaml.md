@@ -1,9 +1,9 @@
 ---
 title: A new Reason for OCaml
-layout: page
+layout: post
 author: kc
 category: Releases
-tags: merlin reason
+tags: merlin reason opam facebook docker ctypes
 ---
 
 [Reason](http://facebook.github.io/reason/) is a collaborative open source project

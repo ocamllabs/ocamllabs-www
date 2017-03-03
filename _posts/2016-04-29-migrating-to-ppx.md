@@ -1,12 +1,11 @@
 ---
 title: Migrating to PPX
-layout: page
+layout: post
 category: Projects
 author: gemmag
+tags: ppx camlp4 
 ---
 
 There has been a recent push to migrate libraries away from Camlp4 to
-the new [PPX](/wiki/PPX "wikilink") extension mechanism. I have started a
-[PPX](/wiki/PPX "wikilink") page that gathers together information about how
-to migrate to PPX. --more-- Please feel free to edit it with your tips
+the new PPX extension mechanism. I have started a PPX page that gathers together information about how to migrate to PPX. Please feel free to edit it with your tips
 and tricks or blog posts about PPX.

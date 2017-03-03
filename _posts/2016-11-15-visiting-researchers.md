@@ -1,8 +1,9 @@
 ---
 title: Visiting Researchers in Winter 2016
-layout: page
+layout: post
 author: gemmag
 category: General
+tags: macros metaprogramming teaching outreach mirage unikernel iot effects
 ---
 
 We are always excited to host interns and visitors to the lab, and we

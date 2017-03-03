@@ -3,6 +3,7 @@ title: A busy spring week with multicore progress, releases, interns and visitor
 layout: post
 author: gemmag
 category: General
+tags: compiler nqsb mrmime macros metaprogramming approximation outreach multicore ctypes topkg packaging merlin platform
 ---
 
 Spring is an exciting time of year in the lab as we traditionally host a

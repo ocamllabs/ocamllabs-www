@@ -1,9 +1,9 @@
 ---
 title: International Summer School on Metaprogramming 2016
-layout: page
+layout: post
 author: gemmag
 category: Events
-tags: metaprogramming
+tags: metaprogramming facebook microsoft
 ---
 
 {% include thumb.html name="punting7.jpg" pos="right" alt="Punting on the Cam" %}

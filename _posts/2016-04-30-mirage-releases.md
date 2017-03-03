@@ -1,11 +1,12 @@
 ---
 title: Seeing double! Mirage 2.8 and 2.9 released
-layout: page
+layout: post
 author: gemmag
 category: Releases
+tags: mirage opam
 ---
 
-April was a busy month and saw two new [MirageOS](/wiki/MirageOS "wikilink")
+April was a busy month and saw two new [MirageOS](https://mirage.io/)
 releases: 2.8 on April 6th, and 2.9 on April 29th.
 
 -   [Mirage 2.9](https://opam.ocaml.org/packages/mirage/mirage.2.9.0/)
@@ -14,11 +15,7 @@ releases: 2.8 on April 6th, and 2.9 on April 29th.
     that allows log reporters to be configured at configuration and
     runtime, and the ability to disable command-line parsing at runtime.
 
-<!-- -->
-
 -   [Mirage 2.8](https://opam.ocaml.org/packages/mirage/mirage.2.8.0/)
     was [Mindy](https://github.com/yomimono)'s first release and it went
     without a hitch! It was released alongside TCP/IP 2.8.0 and was a
     small changeset affecting the STACKV4 module type.
-
---more--
