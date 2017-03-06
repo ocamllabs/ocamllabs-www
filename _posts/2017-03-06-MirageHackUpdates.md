@@ -16,6 +16,8 @@ The [MirageOS](https://mirage.io/) hack retreat is well underway, and you can fo
 
 A [new release of Decompress](https://github.com/oklm-wsh/Decompress/releases/tag/0.5) from [Romain Calascibetta](http://din.osau.re/).
 
+{% twitter https://twitter.com/Dinoosaure/status/837372176646955008 %}
+
 {% twitter https://twitter.com/h4nnes/status/837281344812089344 %}
 
 ## March 3rd
