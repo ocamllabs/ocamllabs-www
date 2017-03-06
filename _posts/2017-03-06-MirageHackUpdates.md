@@ -38,4 +38,10 @@ Exploring the Atlas mountains, and meeting the local camels!
 
 {% twitter https://twitter.com/h4nnes/status/838348990768902144 %}
 
+## March 6th
+
+[OCaml toplevel directive for querying documentation](https://github.com/reynir/ocp-index-top) is here - test it out and give feedback if you can!
+
+{% twitter https://twitter.com/h4nnes/status/838727003343814656 %}
+
 ----
