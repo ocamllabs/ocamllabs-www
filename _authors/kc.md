@@ -11,11 +11,11 @@ posts:
   - title: Building and Publishing an OCaml Package, Q1 2017
     url: http://kcsrk.info/ocaml/opam/topkg/carcass/2017/03/05/building-and-publishing-an-OCaml-package/
     date: 2017-03-05
-    tags: [ocamllabs,ocaml,opam,topkg,carcass,packaging]
+    tags: [ocamllabs,ocaml,opam,topkg,carcass,packaging,platform]
   - title: Ezirmin, an easy interface to the Irmin library
     url: http://kcsrk.info/ocaml/irmin/crdt/2017/02/15/an-easy-interface-to-irmin-library/
     date: 2017-02-15
-    tags: [ocamllabs,ocaml,irmin,ezirmin,git]
+    tags: [ocamllabs,ocaml,irmin,ezirmin,git,mirage]
   - title: Behavioural types
     url: http://kcsrk.info/ocaml/types/2016/06/30/behavioural-types/
     date: 2016-06-30
