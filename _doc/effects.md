@@ -4,14 +4,9 @@ title: "Algebraic Effects and Handlers"
 layout: page
 ---
 
-TODO intro
+OCaml with support for (unchecked) algebraic effects and handlers. Effects and handlers provide concurrency and compose part of [Multicore OCaml](https://github.com/ocamllabs/ocaml-multicore).
 
-## Repositories
-
--   [`ocaml-effects`](https://github.com/ocamllabs/ocaml-effects)
--   [Examples of effects and
-    handlers](https://github.com/kayceesrk/ocaml-eff-example)
--   [`reagents`](https://github.com/ocamllabs/reagents)
+[Examples](https://github.com/ocamllabs/ocaml-effects) of effects and handlers.
 
 ----
 

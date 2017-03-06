@@ -15,6 +15,8 @@ Major efforts in this space include:
 * [Reagents]({% link _doc/reagents.md %})
 * [Macros]({% link _doc/macros.md %})
 * [PPX Syntax Extensions]({% link _doc/ppx.md %})
+* [Modular Implicits]({% link _doc/implicits.md %})
+* [AFL]({% link _doc/afl.md %})
 
 ## OCaml Platform
 

@@ -32,6 +32,7 @@ Adding shared-memory parallelism to an existing language presents an interesting
 The biggest challenge is implementing the garbage collector. GC in OCaml is interesting because of pervasive immutability. Many objects are immutable, which simplifies some aspects of a parallel GC but requires the GC to sustain a very high allocation rate. Operations on immutable objects are very fast in OCaml: allocation is by bumping a pointer, initialising writes (the only ones) are done with no barriers, and reads require no barriers. Our design is focussed on keeping these operations as fast as they are at the moment, with some compromises for mutable objects.
 
 Read more about Multicore OCaml on the [repository wiki](https://github.com/ocamllabs/ocaml-multicore/wiki).
+
 ----
 
 {% include news.html name="multicore" %}
