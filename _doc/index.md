@@ -14,6 +14,7 @@ Major efforts in this space include:
 * [Algebraic Effects]({% link _doc/effects.md %})
 * [Reagents]({% link _doc/reagents.md %})
 * [Macros]({% link _doc/macros.md %})
+* [PPX Syntax Extensions]({% link _doc/ppx.md %})
 
 ## OCaml Platform
 

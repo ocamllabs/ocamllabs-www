@@ -40,3 +40,5 @@ Contributions of all kinds are welcome, for example: improvements to core compon
 16:30 Group/individual presentations  
 17:00 Close  
 18:30 Drinks and dinner  
+
+----
