@@ -20,7 +20,7 @@ A utility to test ppx rewriters that runs the rewriter on user-provided code and
 
 Usage:
 
- ocamlfind ppx_tools/rewriter ./my_ppx_rewriter sample.ml
+ `ocamlfind ppx_tools/rewriter ./my_ppx_rewriter sample.ml`
 
 See the integrated help message for more details:
 
