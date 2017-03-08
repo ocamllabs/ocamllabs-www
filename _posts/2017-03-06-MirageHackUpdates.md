@@ -48,4 +48,12 @@ Exploring the Atlas mountains, and meeting the local camels!
 
 {% twitter https://twitter.com/h4nnes/status/839089996636303360 %}
 
+## March 8th
+
+Last updates from the hack retreat - thanks everyone!
+
+{% twitter https://twitter.com/h4nnes/status/839165419529334784 %}
+
+{% twitter https://twitter.com/h4nnes/status/839398845935157249 %}
+
 ----
