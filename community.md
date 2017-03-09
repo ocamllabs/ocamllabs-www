@@ -4,18 +4,17 @@ title: Community
 permalink: /community/
 ---
 
-We regularly host community events based around functional programming and OCaml including [Compiler Hacking]((
-  https://github.com/ocamllabs/compiler-hacking)) events, MirageOS Hackathons in the [UK](https://mirage.io/blog/2016-summer-hackathon-roundup) and [Marrakech](https://mirage.io/blog/2016-summer-hackathon), Summer Schools and OSS Summits.
+OCaml Labs has a growing, distributed community - with members spread across the globe, with varying levels of involvement. Whether you've collaborated on research papers, played around with an OCaml library or been an avid commenter on repositories and mailing lists, we want to provide a friendly, safe and welcoming environment for all. We encourage you to attend events we host, join us at other interesting events, and most of all we encourage you to get involved by talking about your projects, and even hosting meetups in your area.
 
-Together with academic appearances, members of the OCaml Labs team present their work to the wider community including programming groups, students, financial groups and other development teams, such as [Facebook](https://github.com/facebook/reason) and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
+Let's help each-other spread the word of the OCaml language, open source software and functional programming!
 
-The [Real World OCaml](https://realworldocaml.org/) book was released in 2013, and still serves as a popular and useful teaching text for new and seasoned OCaml users alike.
+## Events
 
-We are always keen on collaboration and if you'd like to work together on a project, please get in touch!
+We regularly host and community events based around functional programming, the OCaml language and related projects.  
 
-## Talks and Conferences
+TODO Events list
 
-### Liveblogs
+**Liveblogs**  
 
 * **15th-21st January 2017: POPL 2017: Paris, France**   
 [Liveblog](http://popl2017.ocaml.io/) at [POPL](http://conf.researchr.org/home/POPL-2017) and co-located workshops.
@@ -25,13 +24,26 @@ We are always keen on collaboration and if you'd like to work together on a proj
 
 * **18th-24th September 2016: ICFP 2016: Nara, Japan**  
 [Liveblog](http://icfp2016.mirage.io/) at [ICFP](http://conf.researchr.org/home/icfp-2016) and co-located workshops including the [OCaml Workshop](http://icfp2016.mirage.io/OCaml) and [CUFP](http://icfp2016.mirage.io/CUFP).
+Liveblogs
 
-## Events
+## Talks & Presentations
 
-* **2nd-9th March 2017: MirageOS Hack Retreat: Marrakech, Morocco**  
-The third MirageOS hack retreat returns to [Rihad Priscilla](http://queenofthemedina.com/en/index.html) in Morocco for a week this spring. We will be working on MirageOS projects during that week in Cambridge, and will share progress via Canopy as in 2016.
+Together with academic appearances, members of the OCaml Labs team present their work to the wider community including programming groups, students, financial groups and other development teams, such as [Facebook](https://github.com/facebook/reason) and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
-* **7th February 2017: Compiler Hacking: Cambridge, UK**  
-Our first [Compiler Hacking](https://github.com/ocamllabs/compiler-hacking) event of 2017 will be held at Pembroke College on 7th February!
+See a detailed collection of our [talks](http://ocamllabs.io/talks/).
+
+## Education
+
+The [Real World OCaml](https://realworldocaml.org/) book was released in 2013, and still serves as a popular and useful teaching text for new and seasoned OCaml users alike.
+
+AFP course
+
+Tutorials and Workshops
+
+## Collaboration
+
+We are always keen to collaborate and if you'd like to work together on a project, fund a project or host an event, please get in touch!
+
+----
 
 {% include news.html name="community" %}

@@ -31,7 +31,7 @@ The Platform combines the core OCaml compiler with a coherent set of libraries, 
 
 [MirageOS](https://mirage.io) is a library operating system written in OCaml that can be used to build unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms.
 
-There is a vibrant and growing ecosystem around constructing libraries for MirageOS that are built in pure OCaml with minimal external dependencies - this unlocks that functionality in all of the target architectures that it supports. MirageOS depends on a number of components that are developed and maintained by OCaml Labs.
+There is a vibrant and growing ecosystem around constructing libraries for MirageOS that are built in pure OCaml with minimal external dependencies - this unlocks that functionality in all of the target architectures that it supports. MirageOS depends on a number of components that are developed and maintained by OCaml Labs, some of which form the [OCaml Platform]({% link _doc/platform.md %}) and some which are independent.
 
 * MirageOS Core
 
