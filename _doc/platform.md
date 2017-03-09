@@ -16,6 +16,7 @@ Broadly, the Platform can be separated into tooling infrastructure for the follo
 * [Packaging workflow]({% link _doc/packaging.md %})
 * [Digital signing with Conex]({% link _doc/conex.md %})
 * [Bulk builds]({% link _doc/bulk-builds.md %})
+* [Windows support]({% link _doc/windows.md %})
 
 ### Test
 

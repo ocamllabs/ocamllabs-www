@@ -34,15 +34,16 @@ See a detailed collection of our [talks](http://ocamllabs.io/talks/).
 
 ## Education
 
-The [Real World OCaml](https://realworldocaml.org/) book was released in 2013, and still serves as a popular and useful teaching text for new and seasoned OCaml users alike.
+* The **[Real World OCaml](https://realworldocaml.org/)** book was released in 2013, and still serves as a popular and useful teaching text for new and seasoned OCaml users alike.
 
-AFP course
+* The **[Advanced Functional Programming (AFP)](https://www.cl.cam.ac.uk/teaching/1617/L28/materials.html)** course runs at the University of Cambridge Computer Laboratory in the Lent term each year.
 
-Tutorials and Workshops
+* We run the **[OCaml Tutorial](https://github.com/ocamllabs/2048-tutorial/blob/master/task.md)** at [ICFP](http://icfpconference.org/) each year, and adapt it where necessary for local workshops and conferences.
 
 ## Collaboration
 
 We are always keen to collaborate and if you'd like to work together on a project, fund a project or host an event, please get in touch!
+
 
 ----
 
