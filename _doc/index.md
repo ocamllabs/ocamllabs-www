@@ -1,6 +1,6 @@
 ---
 authors: [avsm]
-title: "Documentation"
+title: "Projects"
 layout: page
 ---
 
