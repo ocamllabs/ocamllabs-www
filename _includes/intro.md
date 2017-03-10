@@ -1,5 +1,3 @@
 The goal of OCaml Labs is to push [OCaml](https://ocaml.org) and functional programming forward as a platform, making it a more effective tool for current users (including significant industrial users) and at the same time growing the appeal of the language, broadening its applicability and popularity by a combination of technological advancements, creation of community infrastructure, and public communications.
 
-We are always pleased to discuss collaboration opportunities, and feel free to [contact us](/people/) directly with any questions. A core principle of the OCaml Labs is that all of the work done here will be freely released available under open-source licences, and efforts made to integrate all work upstream (e.g. to INRIA, who originally developed and have maintained OCaml since its release in 1996).
-
 This effort is run across multiple groups in the Computer Laboratory, primarily the SRG and PLS, and including collaborators from the Security, CompArch and DTG groups. We would like to especially thank our primary funder, [Jane Street](http://janestreet.com), for their generous support.
