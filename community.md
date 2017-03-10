@@ -8,7 +8,7 @@ OCaml Labs has a growing, distributed community - with members spread across the
 
 Let's help each-other spread the word of the OCaml language, open source software and functional programming!
 
-## Events
+### Events
 
 We regularly host and community events based around functional programming, the OCaml language and related projects.  
 
@@ -26,13 +26,13 @@ TODO Events list
 [Liveblog](http://icfp2016.mirage.io/) at [ICFP](http://conf.researchr.org/home/icfp-2016) and co-located workshops including the [OCaml Workshop](http://icfp2016.mirage.io/OCaml) and [CUFP](http://icfp2016.mirage.io/CUFP).
 Liveblogs
 
-## Talks & Presentations
+### Talks & Presentations
 
 Together with academic appearances, members of the OCaml Labs team present their work to the wider community including programming groups, students, financial groups and other development teams, such as [Facebook](https://github.com/facebook/reason) and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
 See a detailed collection of our [talks](http://ocamllabs.io/talks/).
 
-## Education
+### Education
 
 * The **[Real World OCaml](https://realworldocaml.org/)** book was released in 2013, and still serves as a popular and useful teaching text for new and seasoned OCaml users alike.
 
@@ -40,7 +40,7 @@ See a detailed collection of our [talks](http://ocamllabs.io/talks/).
 
 * We run the **[OCaml Tutorial](https://github.com/ocamllabs/2048-tutorial/blob/master/task.md)** at [ICFP](http://icfpconference.org/) each year, and adapt it where necessary for local workshops and conferences.
 
-## Collaboration
+### Collaboration
 
 We are always keen to collaborate and if you'd like to work together on a project, fund a project or host an event, please get in touch!
 
