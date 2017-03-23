@@ -4,6 +4,8 @@ title: "Projects"
 layout: page
 ---
 
+Watch our projects and progress by looking at the details below, and follow our OCaml Labs repository on GitHub. It doesn't include all of the individual projects, which often sit in individual repositories until release.
+
 ## OCaml Compiler
 
 This refers to the core compiler toolchain, the [OCaml language](https://caml.inria.fr/) and runtime system. Our work includes daily maintenance such as bug fixes and long term improvements to the type system and runtime libraries. We are actively engaging with the wider OCaml community to ensure that improvements and modifications we propose are thoroughly discussed, well-formulated and maintainable. Recent projects include significant work towards multicore support for parallelism and concurrency in OCaml together with greater facilitation for metaprogramming approaches.

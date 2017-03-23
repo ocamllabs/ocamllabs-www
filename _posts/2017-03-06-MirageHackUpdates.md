@@ -6,11 +6,7 @@ category: Events
 tags: mirage databox platform
 ---
 
-The [MirageOS](https://mirage.io/) hack retreat is well underway, and you can follow the fun on Twitter with:
-
-* [#MirageOS](https://twitter.com/search?q=%23MirageOS&src=tyah)
-* [#OpenMirage](https://twitter.com/OpenMirage)
-* [Hannes Mehnert](https://twitter.com/h4nnes)
+The [MirageOS](https://mirage.io/) hack retreat is well underway, and you can follow the fun on Twitter with [#MirageOS](https://twitter.com/search?q=%23MirageOS&src=tyah), [#OpenMirage](https://twitter.com/OpenMirage) and [Hannes Mehnert](https://twitter.com/h4nnes)
 
 ## March 2nd
 
