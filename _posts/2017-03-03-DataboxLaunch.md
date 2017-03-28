@@ -3,7 +3,7 @@ title: "Databox Launch Event: 24th March, Cambridge"
 layout: post
 author: gemmag
 category: Events
-tags: databox mirage personal data networking
+tags: databox mirage personal data networking events community outreach opensource
 ---
 
 We are working with the team behind the [DataBox](http://www.databoxproject.uk) project to host an open-source community launch in Cambridge this spring.
