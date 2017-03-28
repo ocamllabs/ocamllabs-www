@@ -12,6 +12,10 @@ posts:
    tags: [ocamllabs,community,events,opensource,conference,mirage]
    url: http://reynard.io/events/2017/03/27/DataboxLaunchMarch2017.html
    date: 2017-03-28
+ - title: MirageOS Hack Retreat Updates
+   tags: [ocamllabs,community,events,opensource,hackathon,mirage]
+   url: http://ocamllabs.io/events/2017/03/06/MirageHackUpdates.html
+   date: 2017-03-06
  - title: Wontfix_Cabal by Maintainerati
    tags: [ocamllabs,community,events,opensource,conference]
    url: http://reynard.io/2017/03/07/MaintaineratiWontFix.html

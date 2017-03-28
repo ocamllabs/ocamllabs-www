@@ -6,8 +6,6 @@ permalink: /community/
 
 OCaml Labs has a growing, distributed community - with members spread across the globe, with varying levels of involvement. Whether you've collaborated on research papers, played around with an OCaml library or been an avid commenter on repositories and mailing lists, we want to provide a friendly, safe and welcoming environment for all. We encourage you to attend events we host, join us at other interesting events, and most of all we encourage you to get involved by talking about your projects, and even hosting meetups in your area.
 
-Let's help each-other spread the word of the OCaml language, open source software and functional programming!
-
 ### Events
 
 We regularly host and community events based around functional programming, the OCaml language and related projects.  
