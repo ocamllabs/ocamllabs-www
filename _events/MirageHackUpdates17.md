@@ -5,5 +5,5 @@ start: 2017-03-02
 end: 2017-03-08 23:00
 author: gemmag
 description: http://ocamllabs.io/events/2017/03/06/MirageHackUpdates.html
-tags: mirage databox platform community opensource hackathon outreach networking
+tags: events mirage databox platform community opensource hackathon outreach networking
 --
