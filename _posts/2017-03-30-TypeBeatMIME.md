@@ -1,5 +1,5 @@
 ---
-title: "Parsing the email standard with TypeBeat"
+title: "Parsing the Email Standard with TypeBeat"
 layout: post
 author: gemmag
 category: General
