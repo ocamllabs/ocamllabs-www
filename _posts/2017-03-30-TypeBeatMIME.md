@@ -16,6 +16,6 @@ Parsing the value of `Content-Type` is difficult, so [Romain Calascibetta](https
 
 Related papers:
 
-* [Mr Mime](http://din.osau.re/mrmime.pdf)
+* [Who's Got Your Mail? Mr Mime!](http://din.osau.re/mrmime.pdf)
 
 ----
