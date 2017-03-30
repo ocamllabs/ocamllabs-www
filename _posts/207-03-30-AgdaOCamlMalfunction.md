@@ -2,7 +2,7 @@
 title: "An OCaml backend for Agda with Malfunctional Programming"
 layout: post
 author: gemmag
-category: News
+category: General
 tags: ocaml compiler verification theorem proof agda malfunction flambda opensource
 ---
 
