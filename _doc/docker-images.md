@@ -70,3 +70,9 @@ Steps:
 
 * opam depext must work with the distro
 * add ocaml-dockerfile support for the new one
+
+----
+
+{% include news.html name="docker" %}
+
+----

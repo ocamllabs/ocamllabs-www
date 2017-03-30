@@ -19,6 +19,14 @@ Major efforts in this space include:
 * [PPX Syntax Extensions]({% link _doc/ppx.md %})
 * [Modular Implicits]({% link _doc/implicits.md %})
 * [AFL]({% link _doc/afl.md %})
+* [DWARF GDB Debugging]({% link _doc/dwarf-debugging.md %})
+* [Namespaces and Module Aliases]({% link _doc/namespaces-module-aliases.md %})
+* [Higher-kinded Polymorphism]({% link _doc/higher-kinded-polymorphism.md %})
+* [Exception Matching]({% link _doc/exceptions.md %})
+* [Extensible Open Types]({% link _doc/open-types.md %})
+* [OCaml-Java]({% link _doc/java.md %})
+* [Syntax Extensions]({% link _doc/syntax-extensions.md %})
+* [Record Disambiguation]({% link _doc/record-disambiguation.md %})
 
 ## OCaml Platform
 
