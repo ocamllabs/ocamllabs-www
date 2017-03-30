@@ -1,5 +1,5 @@
 ---
-title: Formalizing the OCaml multicore memory model
+title: Formalizing the OCaml Multicore Memory Model
 layout: post
 author: stedolan
 category: RFC

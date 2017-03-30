@@ -1,5 +1,5 @@
 ---
-title: A busy spring week with multicore progress, releases, interns and visitors galore
+title: A Busy Week - Multicore, Releases, Interns and Visitors
 layout: post
 author: gemmag
 category: General

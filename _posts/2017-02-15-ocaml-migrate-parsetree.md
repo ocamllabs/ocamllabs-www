@@ -1,5 +1,5 @@
 ---
-title: Making PPXs portable with ocaml-migrate-parsetree
+title: Making PPXs Portable with ocaml-migrate-parsetree
 layout: post
 author: let-def
 category: Projects

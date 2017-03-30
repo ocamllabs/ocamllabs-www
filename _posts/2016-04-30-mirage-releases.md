@@ -1,5 +1,5 @@
 ---
-title: Seeing double! Mirage 2.8 and 2.9 released
+title: Seeing Double! Mirage 2.8 and 2.9 released
 layout: post
 author: gemmag
 category: Releases

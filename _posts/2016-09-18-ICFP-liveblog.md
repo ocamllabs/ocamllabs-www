@@ -1,5 +1,5 @@
 ---
-title: ICFP 2016 liveblog available
+title: ICFP 2016 Liveblog Available
 layout: post
 author: avsm
 category: Events

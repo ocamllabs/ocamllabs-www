@@ -1,5 +1,5 @@
 ---
-title: Feedback on cmdliner doc language changes
+title: Feedback on cmdliner Documentation Language Changes
 layout: post
 author: gemmag
 category: RFC

@@ -1,5 +1,5 @@
 ---
-title: The missing Links compiler - with multi-shot effect handlers
+title: The missing Links compiler - with Multi-shot Effect Handlers
 layout: post
 category: Projects
 tags: multicore, effects

@@ -1,9 +1,9 @@
 ---
-title: AFL merged into OCaml trunk
+title: AFL Merged into OCaml Trunk
 layout: post
 author: gemmag
 category: Projects
-tags: afl mirage 
+tags: afl mirage
 ---
 
 [AFL](http://lcamtuf.coredump.cx/afl/) has been

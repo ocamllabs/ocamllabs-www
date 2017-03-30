@@ -1,5 +1,5 @@
 ---
-title: Effective parallelism with Reagents @ London Facebook Faculty Summit
+title: Effective Parallelism with Reagents @ London Facebook Faculty Summit
 layout: post
 author: kc
 category: Events

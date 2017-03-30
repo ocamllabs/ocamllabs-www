@@ -1,5 +1,5 @@
 ---
-title: "An OCaml backend for Agda with Malfunctional Programming"
+title: "An OCaml Backend for Agda with Malfunctional Programming"
 layout: post
 author: gemmag
 category: General

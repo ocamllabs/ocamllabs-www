@@ -1,7 +1,7 @@
 ---
 title: "SibylFS: Formal Specification and Oracle-Based Testing for POSIX and Real-World File Systems"
 authors: ["Tom Ridge", "David Sheets", "Thomas Tuerk", "Andrea Giugliano", "Anil Madhavapeddy", "Peter Sewell"]
-date: 05/10/2016
+date: 05/10/2015
 venue:
   name: "the 25th Symposium on Operating Systems Principles"
   short-name: "SOSP15"

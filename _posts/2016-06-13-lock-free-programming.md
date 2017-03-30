@@ -1,5 +1,5 @@
 ---
-title: Lock-free programming for the masses
+title: Lock-free Programming for the Masses
 layout: post
 author: kc
 category: Projects
