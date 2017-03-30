@@ -2,7 +2,7 @@
 title: "Parsing the email standard with TypeBeat"
 layout: post
 author: gemmag
-category: News
+category: General
 tags: email opensource parsing platform ocaml databox angstrom web typebeat topkg mrmime
 ---
 
