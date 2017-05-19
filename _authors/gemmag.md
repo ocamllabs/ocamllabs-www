@@ -8,6 +8,10 @@ twitter: "em3r4ld6"
 role: "core"
 photo: "gemmag"
 posts:
+ - title: OCaml Compiler Hacking May 2017 - Activity Summaries
+   tags: [ocamllabs,compiler,community,events,hackathon]
+   url: http://reynard.io/2017/05/19/CompHackingRoundup.html
+   date: 2017-05-19
  - title: Databox Open-Source Community Launch
    tags: [ocamllabs,community,events,opensource,conference,mirage]
    url: http://reynard.io/events/2017/03/27/DataboxLaunchMarch2017.html
