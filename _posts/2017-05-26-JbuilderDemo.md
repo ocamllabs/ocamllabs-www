@@ -10,7 +10,7 @@ Yesterday we welcomed attendees from [Docker](http://docker.com), [Microsoft Res
 
 **Another build system?!**
 
-It's well known that OCaml has more than a few existing build systems and associated tools (ocamlbuild, jenga, omake, oasis) so why add [Jbuilder](https://github.com/janestreet/jbuilder)? [Jérémie Dimino](https://github.com/diml) reassured us that Jane Street don't just *really* enjoy writing build systems, but Jbuilder exists to provide an easy-to-use build system for general and portable use. Jeremie works on open source development at Jane Street London with [Mark Shinwell](https://github.com/mshinwell), [Thomas Refis](https://github.com/trefis) and [Leo White](https://github.com/lpw25), and his talk covered some background on how Jane Street develops and releases open source tooling, with details of the origin of Jbuilder and its features.
+It's well known that OCaml has more than a few existing build systems and associated tools (ocamlbuild, jenga, omake, oasis) so why add [Jbuilder](https://github.com/janestreet/jbuilder)? [Jérémie Dimino](https://github.com/diml) reassured us that Jane Street don't just *really* enjoy writing build systems, but Jbuilder exists to provide an easy-to-use build system for general and portable use. Jérémie works on open source development at Jane Street London with [Mark Shinwell](https://github.com/mshinwell), [Thomas Refis](https://github.com/trefis) and [Leo White](https://github.com/lpw25), and his talk covered some background on how Jane Street develops and releases open source tooling, with details of the origin of Jbuilder and its features.
 
 {% include thumb.html name="JbuilderDemo.jpg" pos="right" alt="Anil introduces Jérémie" %}
 
@@ -22,13 +22,13 @@ Jane Street uses a [monolithic repository](https://github.com/janestreet) for th
 
 The open source team at Jane Street London released their first library [sexplib](https://github.com/janestreet/sexplib), 4 years ago, and hundreds of [other libraries](https://github.com/janestreet?page=1) have followed, with their packages being relied on more and more. The public release process in Jane Street requires splitting the monorepo "Jane" into it's constituent individual libraries e.g. "Async", ["Core"](https://github.com/janestreet/core) and ["Sexplib"](https://github.com/janestreet/sexplib), followed by set up of these repositories. This includes various stages of setup such as license.txt, _oasis.setup.ml, myocamlbuild.ml, _tags, META files, install.ml and and an opam file. This process requires extensive, painful manual adjustment depending on the specific project and its tooling interactions, and the result is a collection of tools that don't understand each other, creating a system that becomes impossible to understand.
 
-Jeremie noted the common occurrence that if there is a system that a developer doesn't understand, they will simply write layers around it to make it work in a way they do understand. Keen to avoid this, the team realised this was an opportunity to address the issues directly, and to further merge the different worlds of industrial open source in Jane Street, and public open source.
+Jérémie noted the common occurrence that if there is a system that a developer doesn't understand, they will simply write layers around it to make it work in a way they do understand. Keen to avoid this, the team realised this was an opportunity to address the issues directly, and to further merge the different worlds of industrial open source in Jane Street, and public open source.
 
 ### Jbuilder and Jenga
 
 In order to fully understand Jbuilder, we first need to look to Jenga. [Jenga](https://github.com/janestreet/jenga) is a fully-featured build system used internally at Jane Street used on a large scale with their huge monorepo (huge = 1 million lines of code/100,000 files), that supports polling builds and interacts with Emacs. Jenga was created 4 years ago to replace a massive omake file that had become incredibly difficult to work with, and over the last 4 years Jenga has been continually improved and developed as the codebase grows. It has a dedicated team of build system admins that maintain it together with the Jenga Rules.
 
-Jenga is too large for a public release, and far too specific to the internal environment at Jane Street which is purposefully scaled for their huge codebase and repository. Instead of trying to bootstrap Jenga to become more portable, or using makefiles to build projects, Jeremie decided to use the schema component of Jenga - the [Jenga Rules](https://github.com/janestreet/jenga-rules) - and make them more generalisable to work with more systems.
+Jenga is too large for a public release, and far too specific to the internal environment at Jane Street which is purposefully scaled for their huge codebase and repository. Instead of trying to bootstrap Jenga to become more portable, or using makefiles to build projects, Jérémie decided to use the schema component of Jenga - the [Jenga Rules](https://github.com/janestreet/jenga-rules) - and make them more generalisable to work with more systems.
 
 {% include thumb.html name="JbuilderBotanics.jpg" pos="right" alt="Post-demo Botanic Gardens" %}
 
@@ -40,7 +40,7 @@ Jbuilder takes care of the usual build system requirements such as compilation o
 
 **Automatic Discovery**
 
-This feature is imported from Jenga, means that you never need to specify where the libraries/executables are. This means that it's very easy to re-organise projects, as it simply requires renaming the directories. The system applies the same process to local and installed files, which supports multi-project development.
+This feature is imported from Jenga and means that you never need to specify where the libraries/executables are. This means that it's very easy to re-organise projects, as it simply requires renaming the directories. The system applies the same process to local and installed files, which supports multi-project development.
 
 **Build Contexts**
 
