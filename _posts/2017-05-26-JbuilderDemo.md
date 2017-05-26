@@ -6,15 +6,15 @@ category: Events
 tags: ocaml events community outreach opensource teaching jbuilder build platform tooling
 ---
 
-Yesterday we welcomed attendees from Docker, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSR), [Barclays](http://www.barclays.co.uk/PersonalBanking/P1242557947640), OCaml Labs, [Jane Street](https://www.janestreet.com/) and [Citrix](https://www.citrix.co.uk/#ctx-nav) to the Jbuilder discussion and demonstration. This is the first informal Tech Talk of a possible future series at Docker, and we experimented with live remote access and video recording. Huge thanks to the Docker team for providing the venue and Zoom!
+Yesterday we welcomed attendees from [Docker](http://docker.com), [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSR), [Barclays](http://www.barclays.co.uk/PersonalBanking/P1242557947640), OCaml Labs, [Jane Street](https://www.janestreet.com/) and [Citrix](https://www.citrix.co.uk/#ctx-nav) to a Jbuilder discussion and demonstration. This is the first informal Tech Talk of a possible future series at Docker, and we experimented with [live remote access and video recording](https://discuss.ocaml.org/t/cambridge-jbuilder-demo-discussion-may-25th/195/9). Huge thanks to the Docker team for providing the venue and Zoom!
 
 **Another build system?!**
 
 It's well known that OCaml has more than a few existing build systems and associated tools (ocamlbuild, jenga, omake, oasis) so why add [Jbuilder](https://github.com/janestreet/jbuilder)? [Jérémie Dimino](https://github.com/diml) reassured us that Jane Street don't just *really* enjoy writing build systems, but Jbuilder exists to provide an easy-to-use build system for general and portable use. Jeremie works on open source development at Jane Street London with [Mark Shinwell](https://github.com/mshinwell), [Thomas Refis](https://github.com/trefis) and [Leo White](https://github.com/lpw25), and his talk covered some background on how Jane Street develops and releases open source tooling, with details of the origin of Jbuilder and its features.
 
 <p>
-<img src="/assets/img/JbuilderDemo.jpg" alt="Anil introduces Jérémie" width="200" />
-<img src="/assets/img/JbuilderBotanics.jpg" alt="A walk through the Botanic Gardens post demo" width="200" />
+<img src="/img/JbuilderDemo.jpg" alt="Anil introduces Jérémie" width="200" />
+<img src="/img/JbuilderBotanics.jpg" alt="A walk through the Botanic Gardens post demo" width="200" />
 
 </p>
 
@@ -47,7 +47,7 @@ This feature is imported from Jenga, means that you never need to specify where 
 
 **Build Contexts**
 
-As Jbuilder is composable, it supports multi-package repositories, allowing you to build simultaneously against several switches/roots in Opam, and enabling you to build everything at once. Artifacts are collected in _build/<context>/, and the contexts are specific to the rules (Jbuilder API) not part of the core (full build system) - ensuring that only the high-level API details are exposed to the user.
+As Jbuilder is composable, it supports multi-package repositories, allowing you to build simultaneously against several switches/roots in Opam, and enabling you to build everything at once. Artifacts are collected in `_build/<context>/`, and the contexts are specific to the rules (Jbuilder API) not part of the core (full build system) - ensuring that only the high-level API details are exposed to the user.
 
 **Cross Compilation**
 
