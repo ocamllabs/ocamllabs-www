@@ -30,7 +30,7 @@ In order to fully understand Jbuilder, we first need to look to Jenga. [Jenga](h
 
 Jenga is too large for a public release, and far too specific to the internal environment at Jane Street which is purposefully scaled for their huge codebase and repository. Instead of trying to bootstrap Jenga to become more portable, or using makefiles to build projects, Jeremie decided to use the schema component of Jenga - the [Jenga Rules](https://github.com/janestreet/jenga-rules) - and make them more generalisable to work with more systems.
 
-{% include thumb.html name="JbuilderBotanics.jpg" pos="right" alt="A walk through the Botanic Gardens post demo" %}
+{% include thumb.html name="JbuilderBotanics.jpg" pos="right" alt="Post-demo Botanic Gardens" %}
 
 **Essentially, Jbuilder = Jenga Rules - Jenga.**
 
