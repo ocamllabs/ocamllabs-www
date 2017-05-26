@@ -12,12 +12,7 @@ Yesterday we welcomed attendees from [Docker](http://docker.com), [Microsoft Res
 
 It's well known that OCaml has more than a few existing build systems and associated tools (ocamlbuild, jenga, omake, oasis) so why add [Jbuilder](https://github.com/janestreet/jbuilder)? [Jérémie Dimino](https://github.com/diml) reassured us that Jane Street don't just *really* enjoy writing build systems, but Jbuilder exists to provide an easy-to-use build system for general and portable use. Jeremie works on open source development at Jane Street London with [Mark Shinwell](https://github.com/mshinwell), [Thomas Refis](https://github.com/trefis) and [Leo White](https://github.com/lpw25), and his talk covered some background on how Jane Street develops and releases open source tooling, with details of the origin of Jbuilder and its features.
 
-<p>
-<img src="/img/JbuilderDemo.jpg" alt="Anil introduces Jérémie" width="200" />
-<img src="/img/JbuilderBotanics.jpg" alt="A walk through the Botanic Gardens post demo" width="200" />
-
-</p>
-
+{% include thumb.html name="JbuilderDemo.jpg" pos="right" alt="Anil introduces Jérémie" %}
 
 This post touches on the motivations for creating [Jbuilder](https://github.com/janestreet/jbuilder) and looks at some of its main features. For more detailed technical information on the tool itself, please check out the [video](https://www.youtube.com/watch?v=xGf_NCZUios), slides and [GH documentation](https://github.com/janestreet/jbuilder) and [manual](http://jbuilder.readthedocs.io/en/latest/).
 
@@ -34,6 +29,8 @@ Jeremie noted the common occurrence that if there is a system that a developer d
 In order to fully understand Jbuilder, we first need to look to Jenga. [Jenga](https://github.com/janestreet/jenga) is a fully-featured build system used internally at Jane Street used on a large scale with their huge monorepo (huge = 1 million lines of code/100,000 files), that supports polling builds and interacts with Emacs. Jenga was created 4 years ago to replace a massive omake file that had become incredibly difficult to work with, and over the last 4 years Jenga has been continually improved and developed as the codebase grows. It has a dedicated team of build system admins that maintain it Jenga and the Jenga rules.
 
 Jenga is too large for a public release, and far too specific to the internal environment at Jane Street which is purposefully scaled for their huge codebase and repository. Instead of trying to bootstrap Jenga to become more portable, or using makefiles to build projects, Jeremie decided to use the schema component of Jenga - the [Jenga Rules](https://github.com/janestreet/jenga-rules) - and make them more generalisable to work with more systems.
+
+{% include thumb.html name="JbuilderBotanics.jpg" pos="right" alt="A walk through the Botanic Gardens post demo" %}
 
 **Essentially, Jbuilder = Jenga Rules - Jenga.**
 
