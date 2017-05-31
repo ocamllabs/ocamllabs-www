@@ -41,3 +41,5 @@ This feature aims to reduce the need for `.ocamlinit` files in your projects, an
 Opam is progressing through a variety of beta releases, and our collaborator Louis Gesbert released [opam-bundle 0.1](https://discuss.ocaml.org/t/ann-opam-bundle-0-1-generate-self-contained-distributable-source-package-bundles/291) for self-contained, distributable source package bundles. This tool downloads all package dependencies and parcels them up into a bundle together with the tarball. You can provide feedback on the [issue tracker](https://github.com/AltGr/opam-bundle/issues) and follow the project progress in the [repository]( https://github.com/AltGr/opam-bundle).
 
 Proposed future features include bundle generation of pinned packages and/or local switch setups.
+
+----
