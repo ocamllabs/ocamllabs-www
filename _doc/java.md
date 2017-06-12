@@ -1,6 +1,6 @@
 ---
 authors: [xclerc]
-title: "Open Types"
+title: "OCaml Java"
 layout: page
 ---
 
