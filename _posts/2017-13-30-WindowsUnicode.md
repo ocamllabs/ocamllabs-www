@@ -1,5 +1,5 @@
 ---
-title: Windows Unicode Support: A Bug-Fix 12 Years in the Making
+title: Windows Unicode Support - A Bug-Fix 12 Years in the Making
 layout: post
 author: gemmag
 category: General
